@@ -1,6 +1,6 @@
-<div align="center">
-	<div>
-		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+	<div dir="auto">
+		<a target="_blank" rel="noopener noreferrer" href="/sindresorhus/awesome-nodejs/blob/main/media/logo.svg"><img width="500" src="/sindresorhus/awesome-nodejs/raw/main/media/logo.svg" alt="很棒的 Node.js" style="max-width: 100%;"></a>
 		<br>
 	</div>
 	<br>
@@ -8,947 +8,973 @@
 	<br>
 	<br>
 	<hr>
-	<p>
-		<p>
+	<p dir="auto">
+		</p><p dir="auto">
 			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+				<a href="https://github.com/sponsors/sindresorhus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的开源工作得到了社区的支持</font></font></a>
 			</sup>
 		</p>
-		<sup>Special thanks to:</sup>
+		<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢：</font></font></sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		<a href="https://standardresume.co/tech" rel="nofollow">
+			<img src="https://camo.githubusercontent.com/67c91a016c05b6e671ce2a8ce5353edb898f2ad7232a50dc2b7a71d4911e560e/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7374616e646172642d726573756d652d6c6f676f2e737667" width="160" data-canonical-src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" style="max-width: 100%;">
 		</a>
 		<br>
 		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
+		<a href="https://retool.com/?utm_campaign=sindresorhus" rel="nofollow">
+			<img src="https://camo.githubusercontent.com/4b3a9422a59b5d5ce3c8db9f3d48ad717c31020cd1490321b6838be26de48ad9/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7265746f6f6c2d6c6f676f2e737667" width="210" data-canonical-src="https://sindresorhus.com/assets/thanks/retool-logo.svg" style="max-width: 100%;">
 		</a>
 		<br>
 		<br>
-		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+		<a href="https://workos.com/?utm_campaign=github_repo&amp;utm_medium=referral&amp;utm_content=awesome-nodejs&amp;utm_source=github" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/f00ce3418e0ca01b8d6845697fc5195aa68edccddb87434a6ff559412a9b6e3a/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f776f726b6f732d6c6f676f2d77686974652d62672e737667" width="200" alt="工作操作系统" data-canonical-src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" style="max-width: 100%;">
 			</div>
-			<b>Your app, enterprise-ready.</b>
-			<div>
-				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的应用程序，企业就绪。</font></font></b>
+			<div dir="auto">
+				<sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需几行代码即可开始向企业客户销售。</font></font></sub>
 				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+				<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需几分钟而不是几个月即可添加单点登录（甚至更多）。</font></font></sup>
 			</div>
 		</a>
 		<br>
-		<a href="https://strapi.io/?ref=sindresorhus">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
+		<a href="https://strapi.io/?ref=sindresorhus" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/4d3b0bf888ac5557b5e855fe113a582a25f1afcc339df59a54f5c523ce46ec9e/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7374726170692d6c6f676f2d77686974652d62672e706e67" width="200" alt="斯特拉皮" data-canonical-src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" style="max-width: 100%;">
 			</div>
-			<b>Strapi is the leading open-source headless CMS.</b>
-			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strapi 是领先的开源无头 CMS。</font></font></b>
+			<div dir="auto">
+				<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是 100% JavaScript、完全可定制且开发人员优先。</font></font></sup>
 			</div>
 		</a>
 		<br>
 		<br>
-		<a href="https://serpapi.com#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="130" alt="SerpApi">
+		<a href="https://serpapi.com#gh-light-mode-only" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/7829be973ce1e1402727ce4d232320e126d9074770b9a3516aca440151ee43d7/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f736572706170692d6c6f676f2d6c696768742e737667" width="130" alt="SerpAPI" data-canonical-src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" style="max-width: 100%;">
+			</div>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API可轻松获取搜索引擎结果。</font></font></b>
+		</a>
+		<a href="https://serpapi.com#gh-dark-mode-only" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/d095b4c39ebafb9c46dc060a5c6c57bb4ab1bde8dd72a6b34e13c1e0994125ee/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f736572706170692d6c6f676f2d6461726b2e737667" width="130" alt="SerpApi" data-canonical-src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" style="max-width: 100%;">
 			</div>
 			<b>API to get search engine results with ease.</b>
 		</a>
-		<a href="https://serpapi.com#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="130" alt="SerpApi">
-			</div>
-			<b>API to get search engine results with ease.</b>
+		<br>
+		<br>
+		<br>
+		<a href="https://transloadit.com?utm_source=sindresorhus&amp;utm_medium=referral&amp;utm_campaign=sponsorship&amp;utm_content=awesome-nodejs" rel="nofollow">
+			<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+				<source width="320" media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/d0d1425a0fe7c3fb506d2f3a68dc770698388fe4c4e1528d2d49f4bfc194ae6d/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7472616e736c6f616469742d6c6f676f2d6461726b2e737667" data-canonical-src="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
+				<source width="320" media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/9dd2716cbe1f3badaeda979b338235e232e51fef5c782eafe1763df9fef9a824/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7472616e736c6f616469742d6c6f676f2e737667" data-canonical-src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
+				<img width="320" src="https://camo.githubusercontent.com/9dd2716cbe1f3badaeda979b338235e232e51fef5c782eafe1763df9fef9a824/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7472616e736c6f616469742d6c6f676f2e737667" alt="转运标志" data-canonical-src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" style="visibility:visible;max-width:100%;">
+			</picture></themed-picture>
 		</a>
 		<br>
 		<br>
 		<br>
-		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome-nodejs">
-			<picture>
-				<source width="320" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
-				<source width="320" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
-				<img width="320" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
-			</picture>
-		</a>
-		<br>
-		<br>
-		<br>
-	</p>
+	<p dir="auto"></p>
 	<hr>
 	<br>
 	<br>
 	<br>
 	<br>
 	<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	<a href="https://awesome.re" rel="nofollow">
+		<img src="https://camo.githubusercontent.com/e8ffbfce0e67b181fc22291722c22f0abfc74a6e668c04129125fec00bb98b59/68747470733a2f2f617765736f6d652e72652f62616467652d666c6174322e737667" alt="惊人的" data-canonical-src="https://awesome.re/badge-flat2.svg" style="max-width: 100%;">
 	</a>
-	<p>
-		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<p dir="auto">
+		<sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需输入即可</font></font><a href="https://node.cool" rel="nofollow"><code>node.cool</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">转到此处。</font></font><a href="https://twitter.com/sindresorhus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在推特</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上关注我</font><font style="vertical-align: inherit;">。</font></font></sub>
 	</p>
 	<br>
-	<p>
-		<a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> is an open-source, cross-platform, JavaScript runtime for writing servers and command-line tools.
-	</p>
+	<p dir="auto">
+		<a href="https://en.wikipedia.org/wiki/Node.js" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个开源、跨平台的 JavaScript 运行时，用于编写服务器和命令行工具。
+	</font></font></p>
 	<br>
 </div>
-
-## Contents
-
-- [Official](#official)
-- [Packages](#packages)
-	- [Mad science](#mad-science)
-	- [Command-line apps](#command-line-apps)
-	- [Functional programming](#functional-programming)
-	- [HTTP](#http)
-	- [Debugging / Profiling](#debugging--profiling)
-	- [Logging](#logging)
-	- [Command-line utilities](#command-line-utilities)
-	- [Build tools](#build-tools)
-	- [Hardware](#hardware)
-	- [Templating](#templating)
-	- [Web frameworks](#web-frameworks)
-	- [Documentation](#documentation)
-	- [Filesystem](#filesystem)
-	- [Control flow](#control-flow)
-	- [Streams](#streams)
-	- [Real-time](#real-time)
-	- [Image](#image)
-	- [Text](#text)
-	- [Number](#number)
-	- [Math](#math)
-	- [Date](#date)
-	- [URL](#url)
-	- [Data validation](#data-validation)
-	- [Parsing](#parsing)
-	- [Humanize](#humanize)
-	- [Compression](#compression)
-	- [Network](#network)
-	- [Database](#database)
-	- [Testing](#testing)
-	- [Security](#security)
-	- [Benchmarking](#benchmarking)
-	- [Minifiers](#minifiers)
-	- [Authentication](#authentication)
-	- [Authorization](#authorization)
-	- [Email](#email)
-	- [Job queues](#job-queues)
-	- [Node.js management](#nodejs-management)
-	- [Cross-platform integration](#cross-platform-integration)
-	- [Natural language processing](#natural-language-processing)
-	- [Process management](#process-management)
-	- [Automation](#automation)
-	- [AST](#ast)
-	- [Static site generators](#static-site-generators)
-	- [Content management systems](#content-management-systems)
-	- [Forum](#forum)
-	- [Blogging](#blogging)
-	- [Weird](#weird)
-	- [Serialization](#serialization)
-	- [Miscellaneous](#miscellaneous)
-- [Package Manager](#package-manager)
-- [Resources](#resources)
-	- [Tutorials](#tutorials)
-	- [Discovery](#discovery)
-	- [Articles](#articles)
-	- [Newsletters](#newsletters)
-	- [Videos](#videos)
-	- [Books](#books)
-	- [Blogs](#blogs)
-	- [Courses](#courses)
-	- [Cheatsheets](#cheatsheets)
-	- [Tools](#tools)
-	- [Community](#community)
-	- [Miscellaneous](#miscellaneous-1)
-- [Related lists](#related-lists)
-
-## Official
-
-- [Website](https://nodejs.org)
-- [Documentation](https://nodejs.org/dist/latest/docs/api/)
-- [Repository](https://github.com/nodejs/node)
-
-## Packages
-
-### Mad science
-
-- [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
-- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-- [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
-- [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
-- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-- [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
-- [PDFKit](https://github.com/foliojs/pdfkit) - PDF generation library.
-- [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
-- [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
-- [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-- [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system.
-- [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
-- [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
-- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
-- [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
-
-### Command-line apps
-
-- [np](https://github.com/sindresorhus/np) - Better `npm publish`.
-- [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
-- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-- [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
-- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files.
-- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
-- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
-- [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
-- [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
-- [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
-- [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-- [http-server](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
-- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
-- [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
-- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-- [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
-- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
-- [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
-- [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
-- [pen](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
-- [Jsome](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
-- [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
-- [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
-- [trymodule](https://github.com/victorb/trymodule) - Try out npm packages in the terminal.
-- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-- [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
-- [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
-- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
-- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
-- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
-- [themer](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-- [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
-- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
-
-### Functional programming
-
-- [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-- [immutable](https://github.com/immutable-js/immutable-js) - Immutable data collections.
-- [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-- [Mout](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
-- [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
-- [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage.
-
-### HTTP
-
-- [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
-- [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
-- [ky-universal](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
-- [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
-- [axios](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
-- [superagent](https://github.com/visionmedia/superagent) - HTTP request library.
-- [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
-- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
-- [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
-- [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
-- [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
-- [purest](https://github.com/simov/purest) - REST client.
-
-### Debugging / Profiling
-
-- [debug](https://github.com/debug-js/debug) - Tiny debugging utility.
-- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
-- [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
-- [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
-- [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
-- [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
-- [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
-- [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
-- [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
-- [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
-- [thetool](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
-- [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
-- [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow.
-- [dats](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD](https://github.com/statsd/statsd) client.
-
-### Logging
-
-- [pino](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
-- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
-- [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
-- [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
-- [consola](https://github.com/unjs/consola) - Console logger.
-
-### Command-line utilities
-
-- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
-- [meow](https://github.com/sindresorhus/meow) - CLI app helper.
-- [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
-- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-- [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
-- [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-- [listr2](https://github.com/listr2/listr2) - Terminal task list.
-- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-- [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
-- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-- [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
-- [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
-- [cli-truncate](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
-- [blessed](https://github.com/chjj/blessed) - Curses-like library.
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
-- [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
-- [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
-- [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
-- [progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar.
-- [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
-- [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
-- [cli-columns](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
-- [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
-- [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
-- [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
-- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
-- [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
-- [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
-- [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
-- [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
-- [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
-- [terminal-size](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
-- [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
-- [zx](https://github.com/google/zx) - Write shell scripts JavaScript.
-
-### Build tools
-
-- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
-- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
-- [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config.
-- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
-- [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
-- [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
-- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
-- [Vite](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
-
-### Hardware
-
-- [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
-- [serialport](https://github.com/serialport/node-serialport) - Access serial ports for reading and writing.
-- [usb](https://github.com/node-usb/node-usb) - USB library.
-- [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
-- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-- [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access.
-- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
-- [gps](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
-- [modbus-serial](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
-
-### Templating
-
-- [marko](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-- [nunjucks](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
-- [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
-- [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
-- [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
-
-### Web frameworks
-
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-- [Next.js](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
-- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
-- [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
-- [Micro](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
-- [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-- [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
-- [LoopBack](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-- [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
-- [Restify](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
-- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
-- [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
-- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
-- [AdonisJs](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-- [Moleculer](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
-- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
-- [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
-- [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
-- [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
-- [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
-- [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js. 
-
-### Documentation
-
-- [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
-- [Docco](https://github.com/jashkenas/docco) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
-- [JSDoc](https://github.com/jsdoc/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc.
-- [Docusaurus](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
-
-### Filesystem
-
-- [del](https://github.com/sindresorhus/del) - Delete files/folders using globs.
-- [globby](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
-- [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
-- [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-- [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
-- [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-- [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
-- [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
-- [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-- [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
-- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
-- [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
-- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
-- [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
-- [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
-- [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
-
-### Control flow
-
-- Promises
-	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-	- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
-	- [valvelet](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-	- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
-	- [More…](https://github.com/sindresorhus/promise-fun)
-- Observables
-	- [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming.
-	- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-	- [More…](https://github.com/sindresorhus/awesome-observables)
-- Streams
-	- [Highland.js](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
-
-### Streams
-
-- [get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
-- [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
-- [into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
-- [duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-- [pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
-- [peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
-- [binary-split](https://github.com/maxogden/binary-split) - Newline (or any delimiter) splitter stream.
-- [byline](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
-- [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
-- [pad-stream](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
-- [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
-- [readable-stream](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
-- [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
-
-### Real-time
-
-- [µWebSockets](https://github.com/uNetworking/uWebSockets) - Highly scalable WebSocket server & client library.
-- [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
-- [Faye](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
-- [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
-- [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
-- [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
-- [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
-- [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
-- [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
-- [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT server that can run on any stream server.
-
-### Image
-
-- [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-- [image-type](https://github.com/sindresorhus/image-type) - Detect the type of an image.
-- [image-dimensions](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
-- [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
-- [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
-- [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
-- [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
-- [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
-- [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
-
-### Text
-
-- [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-- [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
-- [camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-- [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
-- [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-- [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
-- [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
-- [he](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
-- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
-- [babelfish](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
-- [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
-- [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
-- [i18next](https://github.com/i18next/i18next) - Internationalization framework.
-- [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
-- [StegCloak](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
-
-### Number
-
-- [random-int](https://github.com/sindresorhus/random-int) - Generate a random integer.
-- [random-float](https://github.com/sindresorhus/random-float) - Generate a random float.
-- [unique-random](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
-- [round-to](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
-
-### Math
-
-- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
-- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
-- [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
-- [algebra](https://github.com/fibo/algebra) - Algebraic structures.
-- [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
-
-### Date
-
-- [Luxon](https://github.com/moment/luxon) - Library for working with dates and times.
-- [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
-- [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
-- [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
-- [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
-- [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates.
-
-### URL
-
-- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
-- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: https://sindresorhus.com → sindresorhus.com.
-- [url-unshort](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-- [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-- [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
-- [embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
-
-### Data validation
-
-- [joi](https://github.com/sideway/joi) - Object schema description language and validator for JavaScript objects.
-- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
-- [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
-- [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
-- [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
-- [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
-- [yup](https://github.com/jquense/yup) - Object schema validation.
-
-### Parsing
-
-- [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
-- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
-- [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-- [@parcel/css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
-- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
-- [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
-- [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
-- [URI.js](https://github.com/medialize/URI.js) - URL mutation.
-- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
-- [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
-- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
-- [PEG.js](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
-- [x-ray](https://github.com/matthewmueller/x-ray) - Web scraping utility.
-- [nearley](https://github.com/kach/nearley) - Simple, fast, powerful parsing for JavaScript.
-- [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-- [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
-- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
-- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
-- [Jison](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
-- [google-libphonenumber](https://github.com/ruimarinho/google-libphonenumber) - Parse, format, store and validate phone numbers.
-- [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
-- [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
-- [Chevrotain](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
-- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
-
-### Humanize
-
-- [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
-- [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
-- [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
-- [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
-
-### Compression
-
-- [yazl](https://github.com/thejoshwolfe/yazl) - Zip.
-- [yauzl](https://github.com/thejoshwolfe/yauzl) - Unzip.
-- [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
-- [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
-- [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
-
-### Network
-
-- [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
-- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
-- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
-- [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
-- [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
-
-### Database
-
-- Drivers
-	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-	- [Redis](https://github.com/luin/ioredis) - Redis client.
-	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
-	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
-	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client.
-	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
-	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
-- ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
-	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-	- [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
-	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
-	- [slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
-	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
-	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-	- [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-	- [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
-- Query builder
-	- [Knex](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
-- Other
-	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-	- [Keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
-	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
-
-### Testing
-
-- [AVA](https://github.com/avajs/ava) - Futuristic test runner.
-- [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
-- [nyc](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
-- [tap](https://github.com/tapjs/node-tap) - TAP test framework.
-- [tape](https://github.com/substack/tape) - TAP-producing test harness.
-- [power-assert](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
-- [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
-- [trevor](https://github.com/vadimdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
-- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
-- [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
-- [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
-- [Nock](https://github.com/nock/nock) - HTTP mocking and expectations.
-- [intern](https://github.com/theintern/intern) - Code testing stack.
-- [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
-- [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
-- [testen](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
-- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
-- [WebdriverIO](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
-- [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
-- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
-- [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
-- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
-- [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome.
-- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
-- [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
-- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
-- [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-
-### Security
-
-- [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
-- [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
-- [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
-- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
-- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
-- [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
-
-### Benchmarking
-
-- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results.
-
-### Minifiers
-
-- [babel-minify](https://github.com/babel/minify) - ES2015+ aware minifier based on the Babel toolchain.
-- [UglifyJS2](https://github.com/mishoo/UglifyJS) - JavaScript minifier.
-- [clean-css](https://github.com/clean-css/clean-css) - CSS minifier.
-- [minimize](https://github.com/Swaagie/minimize) - HTML minifier.
-- [imagemin](https://github.com/imagemin/imagemin) - Image minifier.
-
-### Authentication
-
-- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
-- [Grant](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
-
-### Authorization
-
-- [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
-- [node-casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
-
-### Email
-
-- [Nodemailer](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
-- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
-- [email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
-- [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
-
-### Job queues
-
-- [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
-- [agenda](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
-- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
-- [node-resque](https://github.com/actionhero/node-resque) - Redis-backed job queue.
-- [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
-- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
-- [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
-- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
-- [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
-- [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
-
-### Node.js management
-
-- [n](https://github.com/tj/n) - Node.js version management.
-- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
-- [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
-- [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
-- [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
-- [fnm](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
-
-### Cross-platform integration
-
-- [napi-rs](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
-- [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-- [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
-- [DotNetJS](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
-
-### Natural language processing
-
-- [retext](https://github.com/retextjs/retext) - An extensible natural language system.
-- [franc](https://github.com/wooorm/franc) - Detect the language of text.
-- [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
-- [natural](https://github.com/NaturalNode/natural) - Natural language facility.
-- [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
-
-### Process management
-
-- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
-- [nodemon](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server.
-- [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
-- [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
-- [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
-- [supervisor](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
-- [Phusion Passenger](https://github.com/phusion/passenger) - Friendly process manager that integrates directly into Nginx.
-
-### Automation
-
-- [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
-- [nut.js](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
-
-### AST
-
-- [Acorn](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser.
-- [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel.
-
-### Static site generators
-
-- [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
-- [docsify](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
-- [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
-
-### Content management systems
-
-- [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
-- [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-- [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
-- [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
-- [AdminBro](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
-
-### Forum
-
-- [nodeBB](https://github.com/NodeBB/NodeBB) - Forum platform for the modern web.
-
-### Blogging
-
-- [Ghost](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
-- [Hexo](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
-
-### Weird
-
-- [cows](https://github.com/sindresorhus/cows) - ASCII cows.
-- [superb](https://github.com/sindresorhus/superb) - Get superb like words.
-- [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names.
-- [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names.
-- [superheroes](https://github.com/sindresorhus/superheroes) - Get superhero names.
-- [supervillains](https://github.com/sindresorhus/supervillains) - Get supervillain names.
-- [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
-- [nerds](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
-
-### Serialization
-
-- [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-- [protobuf](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
-- [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
-
-### Miscellaneous
-
-- [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
-- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
-- [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
-- [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
-- [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-- [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
-- [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
-- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
-- [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
-- [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
-- [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
-- [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
-- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
-- [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
-- [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
-- [semver](https://github.com/npm/node-semver) - Semantic version parser.
-- [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
-- [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
-- [jsdom](https://github.com/jsdom/jsdom) - JavaScript implementation of HTML and the DOM.
-- [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
-- [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
-- [node-video-lib](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
-- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
-- [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
-- [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
-- [husky](https://github.com/typicode/husky) - Create Git hook scripts.
-- [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
-- [editly](https://github.com/mifi/editly) - Declarative video editing API.
-- [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
-- [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
-
-## Package Manager
-
-- [npm](https://docs.npmjs.com/about-npm) - The default package manager.
-- [pnpm](https://pnpm.io) - Disk space efficient package manager.
-- [yarn](https://yarnpkg.com) - Alternative package manager.
-- [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps. 
-
-## Resources
-
-### Tutorials
-
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
-- [Nodeschool](https://github.com/nodeschool) - Learn Node.js with interactive lessons.
-- [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
-- [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
-- [The Node Way](https://github.com/FredKSchott/the-node-way) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
-- [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
-- [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
-
-### Discovery
-
-- [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
-- [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
-- [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
-
-### Articles
-
-- [Error Handling in Node.js](https://sematext.com/blog/node-js-error-handling/)
-- [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
-- [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
-- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
-- [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
-- [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
-- [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
-- [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
-- [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
-
-### Newsletters
-
-- [Node Weekly](https://nodeweekly.com) - Weekly e-mail round-up of Node.js news and articles.
-
-### Videos
-
-- [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
-- [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
-- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitions.
-- [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
-- [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - Building a REST API without using a framework like Express.
-- [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) - The basics of V8 architecture and how it optimizes JavaScript execution.
-- [Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](https://www.youtube.com/watch?v=UJPdhx5zTaw) - How V8 optimizes JavaScript execution.
-- [Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance](https://www.youtube.com/watch?v=VhpdsjBUS3g) - How to detect app bottlenecks and optimize performance with V8 knowledge.
-- [Node.js Internal Architecture | Ignition, Turbofan, Libuv](https://www.youtube.com/watch?v=OCjvhCFFPTw) - How Node.js works internally, with a focus on V8 and libuv.
-- [Introduction to libuv: What's a Unicorn Velociraptor?](https://www.youtube.com/watch?v=_c51fcXRLGw) - `libuv` architecture, thread pool, and event loop, with its source code.
-- [libuv Cross platform asynchronous i/o](https://www.youtube.com/watch?v=kCJ3PFU8Ke8) - `libuv` architecture in detail, such as where it's actually using threads.
-- [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) - Explaining Node.js internals with quizzes about V8, libuv, event loop, module, stream, and cluster.
-
-### Books
-
-- [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
-- [Node.js in Practice](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
-- [Mastering Node](https://visionmedia.github.io/masteringnode/)
-- [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way/)
-- [Professional Node.js: Building JavaScript Based Scalable Software](https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
-- [Secure Your Node.js Web Application](https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
-- [Express in Action](https://www.manning.com/books/express-in-action)
-- [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
-- [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
-- [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
-- [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
-- [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
-
-### Blogs
-
-- [Node.js blog](https://nodejs.org/en/blog/)
-- [webapplog.com](https://webapplog.com/tag/node-js/) - Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
-
-### Courses
-
-- [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
-- [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
-- [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
-- [Node.js Full Stack Developer Course](https://kinsta.com/academy/course/node-js-full-stack-developer/)
-
-### Cheatsheets
-
-- [Express.js](https://github.com/azat-co/cheatsheets/tree/master/express4)
-- [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
-- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
-
-### Tools
-
-- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
-- [npm-hub](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
-- [RunKit](https://runkit.com) - Embed a Node.js environment on any website.
-- [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
-- [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
-- [Amplication](https://github.com/amplication/amplication) - Auto-generates fully functional apps.
-- [RunJS](https://runjs.app) - Desktop JavaScript playground.
-
-### Community
-
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/node.js)
-- [Reddit](https://www.reddit.com/r/node)
-- [Twitter](https://twitter.com/nodejs)
-- [Hashnode](https://hashnode.com/n/nodejs)
-- [Discord](https://discord.com/invite/96WGtJt)
-
-### Miscellaneous
-
-- [nodebots](https://nodebots.io) - Robots powered by JavaScript.
-- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-- [modern-node](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
-- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-- [Module Requests & Ideas](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
-- [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
-
-## Related lists
-
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
+<h2 tabindex="-1" dir="auto"><a id="user-content-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容</font></font></h2>
+<ul dir="auto">
+<li><a href="#official"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方的</font></font></a></li>
+<li><a href="#packages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">套餐</font></font></a>
+<ul dir="auto">
+<li><a href="#mad-science"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">疯狂的科学</font></font></a></li>
+<li><a href="#command-line-apps"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行应用程序</font></font></a></li>
+<li><a href="#functional-programming"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">函数式编程</font></font></a></li>
+<li><a href="#http"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTTP协议</font></font></a></li>
+<li><a href="#debugging--profiling"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调试/分析</font></font></a></li>
+<li><a href="#logging"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">记录</font></font></a></li>
+<li><a href="#command-line-utilities"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行实用程序</font></font></a></li>
+<li><a href="#build-tools"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建工具</font></font></a></li>
+<li><a href="#hardware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件</font></font></a></li>
+<li><a href="#templating"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模板化</font></font></a></li>
+<li><a href="#web-frameworks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络框架</font></font></a></li>
+<li><a href="#documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="#filesystem"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件系统</font></font></a></li>
+<li><a href="#control-flow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制流</font></font></a></li>
+<li><a href="#streams"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流</font></font></a></li>
+<li><a href="#real-time"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即时的</font></font></a></li>
+<li><a href="#image"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像</font></font></a></li>
+<li><a href="#text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本</font></font></a></li>
+<li><a href="#number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字</font></font></a></li>
+<li><a href="#math"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学</font></font></a></li>
+<li><a href="#date"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日期</font></font></a></li>
+<li><a href="#url"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网址</font></font></a></li>
+<li><a href="#data-validation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据验证</font></font></a></li>
+<li><a href="#parsing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解析</font></font></a></li>
+<li><a href="#humanize"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人性化</font></font></a></li>
+<li><a href="#compression"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">压缩</font></font></a></li>
+<li><a href="#network"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络</font></font></a></li>
+<li><a href="#database"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></a></li>
+<li><a href="#testing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></a></li>
+<li><a href="#security"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></a></li>
+<li><a href="#benchmarking"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标杆管理</font></font></a></li>
+<li><a href="#minifiers"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">缩小器</font></font></a></li>
+<li><a href="#authentication"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证</font></font></a></li>
+<li><a href="#authorization"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">授权</font></font></a></li>
+<li><a href="#email"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件</font></font></a></li>
+<li><a href="#job-queues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作业队列</font></font></a></li>
+<li><a href="#nodejs-management"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 管理</font></font></a></li>
+<li><a href="#cross-platform-integration"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨平台集成</font></font></a></li>
+<li><a href="#natural-language-processing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理</font></font></a></li>
+<li><a href="#process-management"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流程管理</font></font></a></li>
+<li><a href="#automation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化</font></font></a></li>
+<li><a href="#ast"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谷草转氨酶</font></font></a></li>
+<li><a href="#static-site-generators"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">静态站点生成器</font></font></a></li>
+<li><a href="#content-management-systems"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容管理系统</font></font></a></li>
+<li><a href="#forum"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></a></li>
+<li><a href="#blogging"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">写博客</font></font></a></li>
+<li><a href="#weird"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">诡异的</font></font></a></li>
+<li><a href="#serialization"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">序列化</font></font></a></li>
+<li><a href="#miscellaneous"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种各样的</font></font></a></li>
+</ul>
+</li>
+<li><a href="#package-manager"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包管理器</font></font></a></li>
+<li><a href="#resources"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></a>
+<ul dir="auto">
+<li><a href="#tutorials"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a></li>
+<li><a href="#discovery"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发现</font></font></a></li>
+<li><a href="#articles"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文章</font></font></a></li>
+<li><a href="#newsletters"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时事通讯</font></font></a></li>
+<li><a href="#videos"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a></li>
+<li><a href="#books"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图书</font></font></a></li>
+<li><a href="#blogs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a></li>
+<li><a href="#courses"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">培训班</font></font></a></li>
+<li><a href="#cheatsheets"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">备忘单</font></font></a></li>
+<li><a href="#tools"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工具</font></font></a></li>
+<li><a href="#community"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></a></li>
+<li><a href="#miscellaneous-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种各样的</font></font></a></li>
+</ul>
+</li>
+<li><a href="#related-lists"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">相关列表</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-official" class="anchor" aria-hidden="true" tabindex="-1" href="#official"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方的</font></font></h2>
+<ul dir="auto">
+<li><a href="https://nodejs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a></li>
+<li><a href="https://nodejs.org/dist/latest/docs/api/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="https://github.com/nodejs/node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-packages" class="anchor" aria-hidden="true" tabindex="-1" href="#packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">套餐</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-mad-science" class="anchor" aria-hidden="true" tabindex="-1" href="#mad-science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">疯狂的科学</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/webtorrent/webtorrent"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">webtorrent</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 和浏览器的流媒体 torrent 客户端。</font></font></li>
+<li><a href="https://github.com/mafintosh/peerflix"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">peerflix</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 流媒体 torrent 客户端。</font></font></li>
+<li><a href="https://github.com/ipfs/js-ipfs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ipfs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 分布式文件系统，旨在将所有计算设备连接到同一文件系统。</font></font></li>
+<li><a href="https://github.com/stackgl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">stackgl</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - WebGL 的开放软件生态系统，构建在 browserify 和 npm 之上。</font></font></li>
+<li><a href="https://github.com/mafintosh/peerwiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">peerwiki</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - BitTorrent 上的所有维基百科。</font></font></li>
+<li><a href="https://github.com/mafintosh/peercast"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">peercast</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将 torrent 视频流式传输到 Chromecast.</font></font></li>
+<li><a href="https://github.com/bitcoinjs/bitcoinjs-lib"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BitcoinJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 干净、可读、经过验证的比特币库。</font></font></li>
+<li><a href="https://github.com/bitpay/bitcore"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bitcore</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯粹而强大的比特币库。</font></font></li>
+<li><a href="https://github.com/foliojs/pdfkit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDFKit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PDF 生成库。</font></font></li>
+<li><a href="https://github.com/Turfjs/turf"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">turf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 模块化地理空间处理和分析引擎。</font></font></li>
+<li><a href="https://github.com/mafintosh/webcat"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">webcat</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 WebRTC 在网络上进行 p2p 管道，该管道使用您的 GitHub 私钥/公钥进行身份验证。</font></font></li>
+<li><a href="https://github.com/NodeOS/NodeOS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NodeOS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 第一个由 npm 提供支持的操作系统。</font></font></li>
+<li><a href="https://github.com/yodaos-project/yodaos"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YodaOS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 人工智能操作系统。</font></font></li>
+<li><a href="https://github.com/BrainJS/brain.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Brain.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 机器学习框架。</font></font></li>
+<li><a href="https://github.com/alibaba/pipcook"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pipcook</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于创建机器学习管道的前端算法框架。</font></font></li>
+<li><a href="https://github.com/cytoscape/cytoscape.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cytoscape.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 图论（又名网络）建模和分析。</font></font></li>
+<li><a href="https://github.com/creationix/js-git"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">js-git</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Git 的 JavaScript 实现。</font></font></li>
+<li><a href="https://github.com/SheetJS/sheetjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xlsx</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯 JS Excel 电子表格阅读器和编写器。</font></font></li>
+<li><a href="https://github.com/isomorphic-git/isomorphic-git"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">isomorphic-git</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Git 的纯 JavaScript 实现.</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-command-line-apps" class="anchor" aria-hidden="true" tabindex="-1" href="#command-line-apps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行应用程序</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/np"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">np-</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更好</font></font><code>npm publish</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/sindresorhus/npm-name"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm-name</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检查 npm 上软件包名称的可用性。</font></font></li>
+<li><a href="https://github.com/sindresorhus/gh-home"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gh-home</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 打开当前目录中存储库的 GitHub 页面。</font></font></li>
+<li><a href="https://github.com/sindresorhus/npm-home"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm-home</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 打开包的 npm 页面。</font></font></li>
+<li><a href="https://github.com/sindresorhus/trash"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">垃圾</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 更安全的替代品</font></font><code>rm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/sindresorhus/speed-test"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">speed-test</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 测试您的互联网连接速度和 ping。</font></font></li>
+<li><a href="https://github.com/sindresorhus/pageres"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pageres</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 捕获网站屏幕截图。</font></font></li>
+<li><a href="https://github.com/sindresorhus/cpy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cpy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 复制文件。</font></font></li>
+<li><a href="https://github.com/MrRio/vtop"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vtop</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 更好的顶部，有漂亮的图表。</font></font></li>
+<li><a href="https://github.com/sindresorhus/empty-trash"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">清空垃圾箱</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 清空垃圾箱。</font></font></li>
+<li><a href="https://github.com/sindresorhus/is-up"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">is-up</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检查网站是打开还是关闭。</font></font></li>
+<li><a href="https://github.com/sindresorhus/is-online"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">is-online</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检查互联网连接是否正常。</font></font></li>
+<li><a href="https://github.com/sindresorhus/public-ip"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">public-ip</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取您的公共 IP 地址。</font></font></li>
+<li><a href="https://github.com/sindresorhus/clipboard-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Clipboard-cli</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 复制并粘贴到终端上。</font></font></li>
+<li><a href="https://github.com/xojs/xo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XO</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 JavaScript 幸福风格强制执行严格的代码风格。</font></font></li>
+<li><a href="https://github.com/eslint/eslint"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ESLint</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 的可插入 linting 实用程序。</font></font></li>
+<li><a href="https://github.com/alanshaw/david"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">David</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 当你的包 npm 依赖项过期时告诉你。</font></font></li>
+<li><a href="https://github.com/http-party/http-server"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http-server</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单、零配置的命令行 HTTP 服务器。</font></font></li>
+<li><a href="https://github.com/tapio/live-server"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Live Server</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有 livereload 功能的开发 HTTP 服务器。</font></font></li>
+<li><a href="https://github.com/kessler/node-bcat"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bcat</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将命令输出通过管道传输到 Web 浏览器。</font></font></li>
+<li><a href="https://github.com/pawurb/normit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">normit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在您的终端中进行语音合成的谷歌翻译。</font></font></li>
+<li><a href="https://github.com/sindresorhus/fkill-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fkill</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 出色地终止进程。</font><font style="vertical-align: inherit;">跨平台。</font></font></li>
+<li><a href="https://github.com/danielstjules/pjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pjs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可管道化的 JavaScript。</font><font style="vertical-align: inherit;">从终端快速过滤、映射和减少。</font></font></li>
+<li><a href="https://github.com/davglass/license-checker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证检查器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 检查应用程序依赖项的许可证。</font></font></li>
+<li><a href="https://github.com/juliangruber/browser-run"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">browser-run</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在浏览器环境中轻松运行代码。</font></font></li>
+<li><a href="https://github.com/sindresorhus/tmpin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tmpin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 向任何接受文件输入的 CLI 应用程序添加标准输入支持。</font></font></li>
+<li><a href="https://github.com/sindresorhus/wallpaper"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">壁纸</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 更改桌面壁纸。</font></font></li>
+<li><a href="https://github.com/hatashiro/pen"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pen</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从您最喜欢的编辑器在浏览器中实时 Markdown 预览。</font></font></li>
+<li><a href="https://github.com/sindresorhus/dark-mode"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深色模式</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 切换 macOS 深色模式。</font></font></li>
+<li><a href="https://github.com/Javascipt/Jsome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jsome</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用可配置的颜色和缩进漂亮地打印 JSON。</font></font></li>
+<li><a href="https://github.com/samverschueren/mobicon-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mobicon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 移动应用程序图标生成器。</font></font></li>
+<li><a href="https://github.com/samverschueren/mobisplash-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mobisplash</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 移动应用程序启动屏幕生成器。</font></font></li>
+<li><a href="https://github.com/rtfpessoa/diff2html-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">diff2html-cli</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 漂亮的 git diff 到 HTML 生成器。</font></font></li>
+<li><a href="https://github.com/victorb/trymodule"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">trymodule</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在终端中尝试 npm 包。</font></font></li>
+<li><a href="https://github.com/kucherenko/jscpd"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jscpd</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 源代码的复制/粘贴检测器。</font></font></li>
+<li><a href="https://github.com/Raathigesh/Atmo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">atmo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 服务器端 API 模拟。</font></font></li>
+<li><a href="https://github.com/siddharthkp/auto-install"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动安装</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在您编码时自动安装依赖项。</font></font></li>
+<li><a href="https://github.com/linuxenko/lessmd"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lessmd</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 终端中的 Markdown。</font></font></li>
+<li><a href="https://github.com/siddharthkp/cost-of-modules"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块成本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 找出哪些依赖项正在拖慢您的速度。</font></font></li>
+<li><a href="https://github.com/localtunnel/localtunnel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">localtunnel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将您的本地主机暴露给世界。</font></font></li>
+<li><a href="https://github.com/marionebl/svg-term-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">svg-term-cli</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过 SVG 共享终端会话。</font></font></li>
+<li><a href="https://github.com/aksakalli/gtop"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gtop</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 终端的系统监控仪表板。</font></font></li>
+<li><a href="https://github.com/themerdev/themer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">themer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为您的编辑器、终端、壁纸、Slack 等生成主题。</font></font></li>
+<li><a href="https://github.com/mixn/carbon-now-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carbon-now-cli</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 您的代码的美丽图像 - 从您的终端内部。</font></font></li>
+<li><a href="https://github.com/xxczaki/cash-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cash-cli</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 170 种货币之间转换。</font></font></li>
+<li><a href="https://github.com/klaussinani/taskbook"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">任务手册</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 命令行栖息地的任务、看板和注释。</font></font></li>
+<li><a href="https://github.com/brandonweiss/discharge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">discharge</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 轻松将静态网站部署到 Amazon S3。</font></font></li>
+<li><a href="https://github.com/voidcosmos/npkill"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npkill</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 轻松查找并删除旧的和沉重的 node_modules 文件夹。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-functional-programming" class="anchor" aria-hidden="true" tabindex="-1" href="#functional-programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">函数式编程</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/lodash/lodash"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lodash</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 提供一致性、定制、性能和附加功能的实用程序库。</font><font style="vertical-align: inherit;">更好更快的 Underscore.js。</font></font></li>
+<li><a href="https://github.com/immutable-js/immutable-js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不可变</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 不可变的数据集合。</font></font></li>
+<li><a href="https://github.com/ramda/ramda"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ramda</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 实用程序库，重点关注通过自动柯里化和反向参数顺序实现的灵活功能组合。</font><font style="vertical-align: inherit;">避免改变数据。</font></font></li>
+<li><a href="https://github.com/mout/mout"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mout</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 实用程序库与其他现有解决方案最大的区别是您可以选择仅加载您需要的模块/功能，没有额外的开销。</font></font></li>
+<li><a href="https://github.com/reactivex/rxjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RxJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于转换、组合和查询各种数据的功能反应库。</font></font></li>
+<li><a href="https://github.com/kefirjs/kefir"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kefir.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 反应式库，专注于高性能和低内存使用量。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-http" class="anchor" aria-hidden="true" tabindex="-1" href="#http"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTTP协议</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/got"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">得到</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 更好的内置</font></font><code>http</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块接口。</font></font></li>
+<li><a href="https://github.com/nodejs/undici"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">undici</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从头开始&ZeroWidthSpace;&ZeroWidthSpace;编写的高性能 HTTP 客户端，零依赖性。</font></font></li>
+<li><a href="https://github.com/sindresorhus/ky-universal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ky-universal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Fetch 的通用 HTTP 客户端。</font></font></li>
+<li><a href="https://github.com/node-fetch/node-fetch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-fetch</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -</font></font><code>window.fetch</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于 Node.js。</font></font></li>
+<li><a href="https://github.com/axios/axios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">axios</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Promise 的 HTTP 客户端（也可以在浏览器中工作）。</font></font></li>
+<li><a href="https://github.com/visionmedia/superagent"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">superagent</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - HTTP 请求库。</font></font></li>
+<li><a href="https://github.com/micromata/http-fake-backend"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http-fake-backend</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过可配置的路由提供 JSON 文件或 JavaScript 对象的内容来构建假后端。</font></font></li>
+<li><a href="https://github.com/lukechilds/cacheable-request"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cacheable-request</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 RFC 兼容的缓存支持包装本机 HTTP 请求。</font></font></li>
+<li><a href="https://github.com/khaosdoctor/gotql"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gotql</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于</font></font><a href="https://github.com/sindresorhus/got"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">got</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建的 GraphQL 请求库.</font></font></li>
+<li><a href="https://github.com/gajus/global-agent"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">global-agent</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可使用环境变量进行配置的全局 HTTP/HTTPS 代理。</font></font></li>
+<li><a href="https://github.com/sinedied/smoke"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Smoke</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有记录功能的基于文件的 HTTP 模拟服务器。</font></font></li>
+<li><a href="https://github.com/simov/purest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最纯粹的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- REST 客户端。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-debugging--profiling" class="anchor" aria-hidden="true" tabindex="-1" href="#debugging--profiling"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调试/分析</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/debug-js/debug"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">debug</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 小型调试实用程序。</font></font></li>
+<li><a href="https://github.com/mafintosh/why-is-node-running"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Why-is-node-running</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 正在运行，但你不知道为什么？</font></font></li>
+<li><a href="https://github.com/valyouw/njstrace"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">njsTrace</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检测和跟踪您的代码，查看所有函数调用、参数、返回值以及每个函数所花费的时间。</font></font></li>
+<li><a href="https://github.com/joyent/node-vstream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vstream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可仪表化的流混合来检查流的管道。</font></font></li>
+<li><a href="https://github.com/watson/stackman"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">stackman</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用代码摘录和其他好东西增强错误堆栈跟踪。</font></font></li>
+<li><a href="https://github.com/alidavut/locus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">locus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在运行时启动可以访问所有变量的 REPL。</font></font></li>
+<li><a href="https://github.com/davidmarkclements/0x"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0x</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 火焰图分析。</font></font></li>
+<li><a href="https://github.com/automation-stack/ctrace"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ctrace</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 格式良好且经过改进的跟踪系统调用和信号。</font></font></li>
+<li><a href="https://github.com/andywer/leakage"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">泄漏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 编写内存泄漏测试。</font></font></li>
+<li><a href="https://github.com/nodejs/llnode"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">llnode</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获取见解。</font></font></li>
+<li><a href="https://github.com/sfninja/thetool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">thetool</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以 Chrome DevTools 友好格式捕获应用程序的不同 CPU、内存和其他配置文件。</font></font></li>
+<li><a href="https://github.com/slanatech/swagger-stats"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">swagger-stats</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跟踪 API 调用并监控 API 性能、运行状况和使用指标。</font></font></li>
+<li><a href="https://github.com/june07/nim"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NiM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 管理 DevTools 调试工作流程。</font></font></li>
+<li><a href="https://github.com/immobiliare/dats"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dats</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简约且零依赖的</font></font><a href="https://github.com/statsd/statsd"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">StatsD</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">客户端。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-logging" class="anchor" aria-hidden="true" tabindex="-1" href="#logging"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">记录</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/pinojs/pino"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pino</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 受 Bunyan 启发的极快记录器.</font></font></li>
+<li><a href="https://github.com/winstonjs/winston"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">winston</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 多传输异步日志记录库。</font></font></li>
+<li><a href="https://github.com/watson/console-log-level"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">console-log-level</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可以想象的最简单的记录器，支持日志级别和自定义前缀。</font></font></li>
+<li><a href="https://github.com/guigrpa/storyboard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故事板</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 端到端、分层、实时、丰富多彩的日志和故事。</font></font></li>
+<li><a href="https://github.com/unjs/consola"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">consola</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 控制台记录器。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-command-line-utilities" class="anchor" aria-hidden="true" tabindex="-1" href="#command-line-utilities"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行实用程序</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/chalk/chalk"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chalk</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 终端字符串样式正确完成。</font></font></li>
+<li><a href="https://github.com/sindresorhus/meow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">meow</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CLI 应用程序助手。</font></font></li>
+<li><a href="https://github.com/yargs/yargs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">yargs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 自动生成优雅的用户界面的命令行解析器。</font></font></li>
+<li><a href="https://github.com/sindresorhus/ora"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ora</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 优雅的终端微调器。</font></font></li>
+<li><a href="https://github.com/sindresorhus/get-stdin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">get-stdin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 更简单的标准输入。</font></font></li>
+<li><a href="https://github.com/sindresorhus/log-update"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">log-update</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过覆盖终端中以前的输出来记录。</font><font style="vertical-align: inherit;">对于渲染进度条、动画等很有用。</font></font></li>
+<li><a href="https://github.com/vadimdemedes/ink"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ink</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - React 用于交互式命令行应用程序。</font></font></li>
+<li><a href="https://github.com/listr2/listr2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">listr2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 终端任务列表。</font></font></li>
+<li><a href="https://github.com/sindresorhus/conf"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">conf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 您的应用程序或模块的简单配置处理。</font></font></li>
+<li><a href="https://github.com/sindresorhus/ansi-escapes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ansi-escapes</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于操作终端的 ANSI 转义码。</font></font></li>
+<li><a href="https://github.com/sindresorhus/log-symbols"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">log-symbols</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 各种日志级别的彩色符号。</font></font></li>
+<li><a href="https://github.com/sindresorhus/figures"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 带有 Windows CMD 后备的 Unicode 符号。</font></font></li>
+<li><a href="https://github.com/sindresorhus/boxen"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">boxen</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在终端中创建框。</font></font></li>
+<li><a href="https://github.com/sindresorhus/terminal-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Terminal-link</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在终端中创建可点击的链接。</font></font></li>
+<li><a href="https://github.com/sindresorhus/terminal-image"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">终端图像</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在终端中显示图像。</font></font></li>
+<li><a href="https://github.com/sindresorhus/string-width"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">string-width</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取字符串的视觉宽度 - 显示它所需的列数。</font></font></li>
+<li><a href="https://github.com/sindresorhus/cli-truncate"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cli-truncate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在终端中将字符串截断为特定宽度。</font></font></li>
+<li><a href="https://github.com/chjj/blessed"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">祝福</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 类似诅咒的库。</font></font></li>
+<li><a href="https://github.com/SBoudrias/Inquirer.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inquirer.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 交互式命令行提示符。</font></font></li>
+<li><a href="https://github.com/sindresorhus/yn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">yn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 解析是/否等值。</font></font></li>
+<li><a href="https://github.com/cli-table/cli-table3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cli-table3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 漂亮的 unicode 表。</font></font></li>
+<li><a href="https://github.com/madbence/node-drawille"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">drawille</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 unicode 盲文字符在终端上绘制。</font></font></li>
+<li><a href="https://github.com/jstrace/chart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ascii-charts</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 终端中的 ASCII 条形图。</font></font></li>
+<li><a href="https://github.com/visionmedia/node-progress"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进度</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 灵活的 ASCII 进度条。</font></font></li>
+<li><a href="https://github.com/yeoman/insight"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">洞察力</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过向 Google Analytics 匿名报告使用指标，帮助您了解工具的使用情况。</font></font></li>
+<li><a href="https://github.com/sindresorhus/cli-cursor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cli-cursor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 切换 CLI 光标。</font></font></li>
+<li><a href="https://github.com/shannonmoeller/cli-columns"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cli-columns</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 列式 unicode 和 ansi 安全文本列表。</font></font></li>
+<li><a href="https://github.com/dominikwilkowski/cfonts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cfonts</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 控制台的性感 ASCII 字体。</font></font></li>
+<li><a href="https://github.com/codekirei/node-multispinner"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">multispinner</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 多个、同时、单独控制的 CLI 旋转器。</font></font></li>
+<li><a href="https://github.com/f/omelette"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">omelette</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Shell 自动完成助手。</font></font></li>
+<li><a href="https://github.com/kentcdodds/cross-env"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cross-env</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 设置跨平台的环境变量。</font></font></li>
+<li><a href="https://github.com/shelljs/shelljs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">shelljs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 便携式 Unix shell 命令。</font></font></li>
+<li><a href="https://github.com/sindresorhus/sudo-block"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sudo-block</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 阻止用户使用 root 权限运行您的应用程序。</font></font></li>
+<li><a href="https://github.com/sindresorhus/sparkly"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sparkly</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 生成迷你图</font></font><code>▁▂▃▅▂▇</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/teambit/bit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨存储库创建、维护、查找和使用小模块和组件。</font></font></li>
+<li><a href="https://github.com/bokub/gradient-string"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渐变字符串</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 终端输出中美丽的颜色渐变。</font></font></li>
+<li><a href="https://github.com/oclif/oclif"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ocif</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CLI 框架，配有解析器、自动文档、测试和插件。</font></font></li>
+<li><a href="https://github.com/sindresorhus/terminal-size"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">终端大小</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 可靠地获取终端窗口大小。</font></font></li>
+<li><a href="https://github.com/drew-y/cliffy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliffy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 交互式 CLI 框架。</font></font></li>
+<li><a href="https://github.com/google/zx"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zx</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 编写 shell 脚本 JavaScript。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-build-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#build-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建工具</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/parcel-bundler/parcel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parcel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 速度极快、零配置的 Web 应用程序捆绑器。</font></font></li>
+<li><a href="https://github.com/webpack/webpack"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">webpack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为浏览器打包模块和资源。</font></font></li>
+<li><a href="https://github.com/rollup/rollup"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rollup</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 下一代 ES2015 模块捆绑器。</font></font></li>
+<li><a href="https://github.com/gulpjs/gulp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gulp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 流媒体和快速构建系统，有利于代码而不是配置。</font></font></li>
+<li><a href="https://github.com/broccolijs/broccoli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Broccoli</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义。</font></font></li>
+<li><a href="https://github.com/brunch/brunch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Brunch</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和固执己见的工作流程。</font></font></li>
+<li><a href="https://github.com/fuse-box/fuse-box"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FuseBox</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速构建系统，结合了 webpack、JSPM 和 SystemJS 的强大功能以及一流的 TypeScript 支持。</font></font></li>
+<li><a href="https://github.com/vercel/pkg"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pkg</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将 Node.js 项目打包成可执行文件。</font></font></li>
+<li><a href="https://github.com/vitejs/vite"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vite</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有热模块替换和静态资源捆绑功能的前端构建工具。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-hardware" class="anchor" aria-hidden="true" tabindex="-1" href="#hardware"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/rwaldron/johnny-five"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">johnny- Five</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Firmata 的 Arduino 框架.</font></font></li>
+<li><a href="https://github.com/serialport/node-serialport"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">串行端口</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 访问串行端口以进行读写。</font></font></li>
+<li><a href="https://github.com/node-usb/node-usb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">usb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - USB 库。</font></font></li>
+<li><a href="https://github.com/fivdi/i2c-bus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i2c-bus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - I2C 串行总线访问。</font></font></li>
+<li><a href="https://github.com/fivdi/onoff"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">onoff</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - GPIO 访问和中断检测。</font></font></li>
+<li><a href="https://github.com/fivdi/spi-device"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">spi-device</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - SPI 串行总线访问。</font></font></li>
+<li><a href="https://github.com/fivdi/pigpio"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pigpio</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理。</font></font></li>
+<li><a href="https://github.com/infusion/GPS.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gps</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于处理 GPS 接收器的 NMEA 解析器。</font></font></li>
+<li><a href="https://github.com/yaacov/node-modbus-serial"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">modbus-serial</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - MODBUS-RTU（串行和 TCP）的纯 JavaScript 实现。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-templating" class="anchor" aria-hidden="true" tabindex="-1" href="#templating"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模板化</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/marko-js/marko"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">marko</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 HTML 的模板引擎，将模板编译为 CommonJS 模块并支持流式传输、异步渲染和自定义标签。</font></font></li>
+<li><a href="https://github.com/mozilla/nunjucks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nunjucks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有继承、异步控制等功能的模板引擎（受 jinja2 启发）。</font></font></li>
+<li><a href="https://github.com/handlebars-lang/handlebars.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">handlebars.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Mustache 模板的超集，添加了帮助程序和更高级的块等强大的功能。</font></font></li>
+<li><a href="https://github.com/mde/ejs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单的、不带偏见的模板语言。</font></font></li>
+<li><a href="https://github.com/pugjs/pug"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pug</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 深受 Haml 影响的高性能模板引擎。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-web-frameworks" class="anchor" aria-hidden="true" tabindex="-1" href="#web-frameworks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络框架</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/fastify/fastify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fastify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速且低开销的 Web 框架。</font></font></li>
+<li><a href="https://github.com/vercel/next.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Next.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 服务器渲染通用 JavaScript Web 应用程序的简约框架。</font></font></li>
+<li><a href="https://github.com/nuxt/nuxt.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nuxt.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 服务器渲染 Vue.js 应用程序的简约框架。</font></font></li>
+<li><a href="https://github.com/hapijs/hapi"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hapi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于构建应用程序和服务的框架。</font></font></li>
+<li><a href="https://github.com/vercel/micro"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Micro</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 采用异步方法的简约微服务框架。</font></font></li>
+<li><a href="https://github.com/koajs/koa"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Koa</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 Express 背后的团队设计的框架，旨在成为 Web 应用程序和 API 的更小、更具表现力和更强大的基础。</font></font></li>
+<li><a href="https://github.com/expressjs/express"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Express</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Web 应用程序框架，提供一组强大的功能用于构建单页、多页以及混合 Web 应用程序。</font></font></li>
+<li><a href="https://github.com/feathersjs/feathers"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Feathers</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 本着 Express 精神构建的微服务框架。</font></font></li>
+<li><a href="https://github.com/loopbackio/loopback-next"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LoopBack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于创建 REST API 并轻松连接到后端数据源的强大框架。</font></font></li>
+<li><a href="https://github.com/meteor/meteor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Meteor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个超简单、数据库无处不在、在线数据、纯 Javascript Web 框架。</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（你可能喜欢</font></font><a href="https://github.com/Urigo/awesome-meteor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome-meteor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></em></li>
+<li><a href="https://github.com/restify/node-restify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Restify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使您能够构建正确的 REST Web 服务。</font></font></li>
+<li><a href="https://github.com/thinkjs/thinkjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ThinkJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 支持 ES2015+、WebSockets、REST API 的框架。</font></font></li>
+<li><a href="https://github.com/actionhero/actionhero"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ActionHero</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为 TCP 套接字、WebSocket 和 HTTP 客户端创建可重用和可扩展 API 的框架。</font></font></li>
+<li><a href="https://github.com/senecajs/seneca"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">seneca</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于编写微服务的工具包。</font></font></li>
+<li><a href="https://github.com/adonisjs/core"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AdonisJs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 的真正 MVC 框架，构建在依赖注入和 IoC 容器的坚实基础上。</font></font></li>
+<li><a href="https://github.com/moleculerjs/moleculer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Moleculer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速且强大的微服务框架。</font></font></li>
+<li><a href="https://github.com/nestjs/nest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nest</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 受 Angular 启发的框架，用于构建高效且可扩展的服务器端应用程序。</font></font></li>
+<li><a href="https://github.com/MichalLytek/type-graphql"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TypeGraphQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用类和装饰器通过 TypeScript 创建 GraphQL API 的现代框架。</font></font></li>
+<li><a href="https://github.com/tinyhttp/tinyhttp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tinyhttp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 现代且快速的类似 Express 的 Web 框架。</font></font></li>
+<li><a href="https://github.com/marblejs/marble"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Marble.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 TypeScript 和 RxJS 的用于构建服务器端应用程序的功能反应框架。</font></font></li>
+<li><a href="https://github.com/ladjs/lad"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lad</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由前 Express TC 和 Koa 成员制作的框架，捆绑了 Web、API、作业和代理服务器。</font></font></li>
+<li><a href="https://github.com/tsedio/tsed"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ts.ED</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于在 Express.js 或 Koa.js 之上构建服务器端应用程序的直观 TypeScript 框架。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/documentationjs/documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Documentation.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - API 文档生成器，支持 ES2015+ 和流注释。</font></font></li>
+<li><a href="https://github.com/jashkenas/docco"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docco</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 文档生成器，生成 HTML 文档，显示与代码混合的注释。</font></font></li>
+<li><a href="https://github.com/jsdoc/jsdoc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSDoc</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 类似于 JavaDoc 或 PHPDoc 的 API 文档生成器。</font></font></li>
+<li><a href="https://github.com/facebook/docusaurus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docusaurus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 利用 React 和 Markdown 的文档网站生成器，并具有翻译和版本控制功能。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-filesystem" class="anchor" aria-hidden="true" tabindex="-1" href="#filesystem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件系统</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/del"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">del</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 glob 删除文件/文件夹。</font></font></li>
+<li><a href="https://github.com/sindresorhus/globby"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">globby</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 支持多种模式的 Glob 文件。</font></font></li>
+<li><a href="https://github.com/paulmillr/chokidar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chokidar</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 文件系统观察器，可稳定来自 macOS 的事件</font></font><code>fs.watch</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以及在 macOS 上</font></font><code>fs.watchFile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用本机事件</font></font><code>fsevents</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/sindresorhus/find-up"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">find-up</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过向上查找父目录来查找文件。</font></font></li>
+<li><a href="https://github.com/moxystudio/node-proper-lockfile"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">proper-lockfile</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 进程间和机器间锁定文件实用程序。</font></font></li>
+<li><a href="https://github.com/sindresorhus/load-json-file"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">load-json-file</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 读取并解析 JSON 文件。</font></font></li>
+<li><a href="https://github.com/sindresorhus/write-json-file"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">write-json-file</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以原子方式将 JSON 字符串化并写入文件。</font></font></li>
+<li><a href="https://github.com/npm/fs-write-stream-atomic"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fs-write-stream-atomic</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 类似</font></font><code>fs.createWriteStream()</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，但原子。</font></font></li>
+<li><a href="https://github.com/sindresorhus/filenamify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">filenamify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将字符串转换为有效的文件名。</font></font></li>
+<li><a href="https://github.com/bevry/istextorbinary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">istextorbinary</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检查文件是文本还是二进制。</font></font></li>
+<li><a href="https://github.com/szwacz/fs-jetpack"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fs-jetpack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 完全重新设计的文件系统 API，方便日常使用。</font></font></li>
+<li><a href="https://github.com/jprichardson/node-fs-extra"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fs-extra</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 模块的额外方法</font></font><code>fs</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/sindresorhus/pkg-dir"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pkg-dir</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 查找 npm 包的根目录。</font></font></li>
+<li><a href="https://github.com/nspragg/filehound"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">filehound</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于搜索文件系统的灵活流畅的界面。</font></font></li>
+<li><a href="https://github.com/sindresorhus/move-file"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">move-file</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 移动文件，甚至可以跨设备工作。</font></font></li>
+<li><a href="https://github.com/sindresorhus/tempy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tempy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取随机临时文件或目录路径。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-control-flow" class="anchor" aria-hidden="true" tabindex="-1" href="#control-flow"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制流</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">承诺
+</font></font><ul dir="auto">
+<li><a href="https://github.com/sindresorhus/pify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Promisify 回调风格的函数。</font></font></li>
+<li><a href="https://github.com/sindresorhus/delay"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">延迟</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将承诺延迟指定的时间。</font></font></li>
+<li><a href="https://github.com/nodeca/promise-memoize"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Promise-memoize</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 记忆 Promise 返回函数，具有过期和预取功能。</font></font></li>
+<li><a href="https://github.com/lpinca/valvelet"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Valvelet</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 限制承诺返回函数的执行率。</font></font></li>
+<li><a href="https://github.com/sindresorhus/p-map"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">p-map</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 同时映射 Promise。</font></font></li>
+<li><a href="https://github.com/sindresorhus/promise-fun"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多的…</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">观测值
+</font></font><ul dir="auto">
+<li><a href="https://github.com/ReactiveX/RxJS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RxJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 反应式编程。</font></font></li>
+<li><a href="https://github.com/sindresorhus/observable-to-promise"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">observable-to-promise</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将 Observable 转换为 Promise。</font></font></li>
+<li><a href="https://github.com/sindresorhus/awesome-observables"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多的…</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流
+</font></font><ul dir="auto">
+<li><a href="https://github.com/caolan/highland"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Highland.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 只需使用标准 JavaScript 和类似 Node 的流即可轻松管理同步和异步代码。</font></font></li>
+</ul>
+</li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-streams" class="anchor" aria-hidden="true" tabindex="-1" href="#streams"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/get-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">get-stream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取字符串或缓冲区形式的流。</font></font></li>
+<li><a href="https://github.com/hughsk/from2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">from2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - ReadableStream 的便捷包装器，灵感来自</font></font><code>through2</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></li>
+<li><a href="https://github.com/sindresorhus/into-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">into-stream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将缓冲区/字符串/数组/对象转换为流。</font></font></li>
+<li><a href="https://github.com/mafintosh/duplexify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">duplexify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将可写和可读流转换为单个streams2双工流。</font></font></li>
+<li><a href="https://github.com/mafintosh/pumpify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pumpify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将一组流组合成一个双工流。</font></font></li>
+<li><a href="https://github.com/mafintosh/peek-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">peek-stream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 转换流，让您在决定如何解析它之前先查看第一行。</font></font></li>
+<li><a href="https://github.com/maxogden/binary-split"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">binary-split</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 换行符（或任何分隔符）分割器流。</font></font></li>
+<li><a href="https://github.com/jahewson/node-byline"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">byline</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 超级简单的逐行流阅读器。</font></font></li>
+<li><a href="https://github.com/sindresorhus/first-chunk-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">first-chunk-stream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 转换流中的第一个块。</font></font></li>
+<li><a href="https://github.com/sindresorhus/pad-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pad-stream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 填充流中的每一行。</font></font></li>
+<li><a href="https://github.com/feross/multistream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多流</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将多个流合并为一个流。</font></font></li>
+<li><a href="https://github.com/nodejs/readable-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可读流</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 核心中 Streams2 和 Streams3 实现的镜像。</font></font></li>
+<li><a href="https://github.com/almost/through2-concurrent"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">through2-concurrent</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 同时转换对象流。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-real-time" class="anchor" aria-hidden="true" tabindex="-1" href="#real-time"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即时的</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/uNetworking/uWebSockets"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">µWebSockets</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 高度可扩展的 WebSocket 服务器和客户端库。</font></font></li>
+<li><a href="https://github.com/socketio/socket.io"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Socket.io</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 启用基于事件的实时双向通信。</font></font></li>
+<li><a href="https://github.com/faye/faye"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Faye</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Bayeux 协议的实时客户端-服务器消息总线。</font></font></li>
+<li><a href="https://github.com/SocketCluster/socketcluster"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SocketCluster</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可扩展的 HTTP + WebSocket 引擎，可以在多个 CPU 核心上运行。</font></font></li>
+<li><a href="https://github.com/primus/primus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Primus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 实时框架的抽象层，用于防止模块锁定。</font></font></li>
+<li><a href="https://github.com/deepstreamIO/deepstream.io-client-js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">deepstream.io</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可扩展的实时微服务框架。</font></font></li>
+<li><a href="https://github.com/kalm/kalm.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kalm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 低级套接字路由器和中间件框架。</font></font></li>
+<li><a href="https://github.com/mqttjs/MQTT.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MQTT.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - MQTT 客户端 - 基于 Pub-sub 的消息协议，在 TCP/IP 之上使用。</font></font></li>
+<li><a href="https://github.com/elpheria/rpc-websockets"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rpc-websockets</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过 WebSockets 实现 JSON-RPC 2.0.</font></font></li>
+<li><a href="https://github.com/moscajs/aedes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aedes</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Barebone MQTT 服务器，可以在任何流服务器上运行。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-image" class="anchor" aria-hidden="true" tabindex="-1" href="#image"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/lovell/sharp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sharp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于调整 JPEG、PNG、WebP 和 TIFF 图像大小的最快模块。</font></font></li>
+<li><a href="https://github.com/sindresorhus/image-type"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">image-type</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检测图像的类型。</font></font></li>
+<li><a href="https://github.com/sindresorhus/image-dimensions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">image-dimensions</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取图像的尺寸。</font></font></li>
+<li><a href="https://github.com/aheckmann/gm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - GraphicsMagick 和 ImageMagick 包装器。</font></font></li>
+<li><a href="https://github.com/EyalAr/lwip"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lwip</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 不需要 ImageMagick 的轻量级图像处理器。</font></font></li>
+<li><a href="https://github.com/nodeca/pica"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pica</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯 JS 中的高质量和快速调整大小（lanczos3）。</font><font style="vertical-align: inherit;">当不允许像素化时，替代画布drawImage()。</font></font></li>
+<li><a href="https://github.com/oliver-moran/jimp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jimp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯 JavaScript 中的图像处理。</font></font></li>
+<li><a href="https://github.com/soldair/node-qrcode"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">qrcode</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - QR 码和条形码生成器。</font></font></li>
+<li><a href="https://github.com/matmen/ImageScript"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ImageScript</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 中的图像处理，利用 WebAssembly 来提高性能。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-text" class="anchor" aria-hidden="true" tabindex="-1" href="#text"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/ashtuchkin/iconv-lite"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iconv-lite</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 转换字符编码。</font></font></li>
+<li><a href="https://github.com/sindresorhus/string-length"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">string-length</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过正确计算星体符号并忽略 ansi 转义码来获取字符串的实际长度。</font></font></li>
+<li><a href="https://github.com/sindresorhus/camelcase"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">驼峰命名法</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将破折号/点/下划线/空格分隔的字符串转换为驼峰命名法：foo-bar → fooBar。</font></font></li>
+<li><a href="https://github.com/sindresorhus/escape-string-regexp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">escape-string-regexp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 转义 RegExp 特殊字符。</font></font></li>
+<li><a href="https://github.com/sindresorhus/splice-string"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">splice-string</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 删除或替换字符串的一部分，例如</font></font><code>Array#splice</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></li>
+<li><a href="https://github.com/sindresorhus/indent-string"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">indent-string</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 缩进字符串中的每一行。</font></font></li>
+<li><a href="https://github.com/sindresorhus/strip-indent"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">strip-indent</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 去除字符串中每一行的前导空格。</font></font></li>
+<li><a href="https://github.com/sindresorhus/detect-indent"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检测缩进</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 检测代码的缩进。</font></font></li>
+<li><a href="https://github.com/mathiasbynens/he"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">he</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - HTML 实体编码器/解码器。</font></font></li>
+<li><a href="https://github.com/mashpie/i18n-node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i18n-node</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有动态 JSON 存储的简单翻译模块。</font></font></li>
+<li><a href="https://github.com/nodeca/babelfish"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">babelfish</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - i18n，具有非常简单的复数语法。</font></font></li>
+<li><a href="https://github.com/sindresorhus/matcher"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matcher</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单的通配符匹配。</font></font></li>
+<li><a href="https://github.com/nodeca/unhomoglyph"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">unhomoglyph</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 标准化视觉上相似的 unicode 字符。</font></font></li>
+<li><a href="https://github.com/i18next/i18next"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i18next</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 国际化框架。</font></font></li>
+<li><a href="https://github.com/ai/nanoid"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nanoid</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 微型、安全、URL 友好、唯一的字符串 ID 生成器。</font></font></li>
+<li><a href="https://github.com/kurolabs/stegcloak"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">StegCloak</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将秘密隐藏在字符串中，一目了然。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-number" class="anchor" aria-hidden="true" tabindex="-1" href="#number"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/random-int"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">random-int</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 生成一个随机整数。</font></font></li>
+<li><a href="https://github.com/sindresorhus/random-float"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">random-float</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 生成随机浮点数。</font></font></li>
+<li><a href="https://github.com/sindresorhus/unique-random"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">unique-random</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 生成连续唯一的随机数。</font></font></li>
+<li><a href="https://github.com/sindresorhus/round-to"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">round-to</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将数字四舍五入到特定的小数位数：</font></font><code>1.234</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">→ </font></font><code>1.2</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-math" class="anchor" aria-hidden="true" tabindex="-1" href="#math"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/scijs/ndarray"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ndarray</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 多维数组。</font></font></li>
+<li><a href="https://github.com/josdejong/mathjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mathjs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个广泛的数学库。</font></font></li>
+<li><a href="https://github.com/sindresorhus/math-clamp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">math-clamp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 限制一个数字。</font></font></li>
+<li><a href="https://github.com/fibo/algebra"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代数</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 代数结构。</font></font></li>
+<li><a href="https://github.com/nodeca/multimath"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">multimath</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 WebAssembly 和 JS 中创建快速图像数学的核心。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-date" class="anchor" aria-hidden="true" tabindex="-1" href="#date"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日期</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/moment/luxon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Luxon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于处理日期和时间的库。</font></font></li>
+<li><a href="https://github.com/date-fns/date-fns"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">date-fns</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 现代日期实用程序。</font></font></li>
+<li><a href="https://github.com/iamkun/dayjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Day.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Moment.js 的不可变日期库替代品。</font></font></li>
+<li><a href="https://github.com/felixge/node-dateformat"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dateformat</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 日期格式。</font></font></li>
+<li><a href="https://github.com/samverschueren/tz-format"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tz-format</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用时区格式化日期：</font></font><code>2015-11-30T10:40:35+01:00</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></li>
+<li><a href="https://github.com/floatdrop/node-cctz"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cctz</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 日期的快速解析、格式化和时区对话。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-url" class="anchor" aria-hidden="true" tabindex="-1" href="#url"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网址</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/normalize-url"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normalize-url</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 规范化 URL。</font></font></li>
+<li><a href="https://github.com/sindresorhus/humanize-url"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">humanize-url</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 人性化 URL：</font></font><a href="https://sindresorhus.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://sindresorhus.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> → sindresorhus.com。</font></font></li>
+<li><a href="https://github.com/nodeca/url-unshort"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">url-unshort</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 展开缩短的 URL。</font></font></li>
+<li><a href="https://github.com/pid/speakingurl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">talkurl</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从带有音译的字符串生成一个 slug。</font></font></li>
+<li><a href="https://github.com/markdown-it/linkify-it"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">linkify-it</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有完整 unicode 支持的链接模式检测器。</font></font></li>
+<li><a href="https://github.com/snd/url-pattern"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">url-pattern</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 比 URL 和其他字符串的正则表达式字符串匹配模式更容易。</font></font></li>
+<li><a href="https://github.com/nodeca/embedza"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">embedza</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 oEmbed、Open Graph、元标记中的信息从 URL 创建 HTML 片段/嵌入。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-data-validation" class="anchor" aria-hidden="true" tabindex="-1" href="#data-validation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据验证</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sideway/joi"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">joi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 对象的对象模式描述语言和验证器。</font></font></li>
+<li><a href="https://github.com/mafintosh/is-my-json-valid"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">is-my-json-valid</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JSON 模式验证器，使用代码生成速度非常快。</font></font></li>
+<li><a href="https://github.com/nettofarah/property-validator"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">property-validator</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Express 的简单属性验证.</font></font></li>
+<li><a href="https://github.com/schema-inspector/schema-inspector"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">schema-inspector</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JSON API 清理和验证。</font></font></li>
+<li><a href="https://github.com/ajv-validator/ajv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ajv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 最快的 JSON 模式验证器。</font><font style="vertical-align: inherit;">支持 v5、v6 和 v7 提案。</font></font></li>
+<li><a href="https://github.com/ianstormtaylor/superstruct"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Superstruct</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 JavaScript（和 TypeScript）中验证数据的简单且可组合的方法。</font></font></li>
+<li><a href="https://github.com/jquense/yup"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 对象模式验证。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-parsing" class="anchor" aria-hidden="true" tabindex="-1" href="#parsing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解析</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/remarkjs/remark"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">备注</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 由插件支持的 Markdown 处理器。</font></font></li>
+<li><a href="https://github.com/markdown-it/markdown-it"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">markdown-it</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Markdown 解析器，具有 100% CommonMark 支持、扩展和语法插件。</font></font></li>
+<li><a href="https://github.com/inikulin/parse5"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">parse5</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速、全功能、符合规范的 HTML 解析器。</font></font></li>
+<li><a href="https://github.com/parcel-bundler/parcel-css"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@parcel/css</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用 Rust 编写的 CSS 解析器、转换器和压缩器。</font></font></li>
+<li><a href="https://github.com/sindresorhus/strip-json-comments"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">strip-json-comments</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从 JSON 中删除注释。</font></font></li>
+<li><a href="https://github.com/sindresorhus/strip-css-comments"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">strip-css-comments</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从 CSS 中删除注释。</font></font></li>
+<li><a href="https://github.com/sindresorhus/parse-json"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">parse-json</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 解析 JSON 并提供更多有用的错误。</font></font></li>
+<li><a href="https://github.com/medialize/URI.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">URI.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - URL 突变。</font></font></li>
+<li><a href="https://github.com/dominictarr/JSONStream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSONStream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 流式传输 JSON.parse 和 stringify。</font></font></li>
+<li><a href="https://github.com/sindresorhus/neat-csv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">clean-csv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速 CSV 解析器。</font><font style="vertical-align: inherit;">上面的回调接口。</font></font></li>
+<li><a href="https://github.com/mafintosh/csv-parser"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">csv-parser</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 流式 CSV 解析器，旨在比其他人更快。</font></font></li>
+<li><a href="https://github.com/pegjs/pegjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PEG.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单的解析器生成器，可生成具有出色错误报告的快速解析器。</font></font></li>
+<li><a href="https://github.com/matthewmueller/x-ray"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x-ray</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 网页抓取实用程序。</font></font></li>
+<li><a href="https://github.com/kach/nearley"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">近利</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 简单，快速，强大的 JavaScript 解析。</font></font></li>
+<li><a href="https://github.com/juliangruber/binary-extract"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">binary-extract</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从 JSON 缓冲区中提取值而不解析整个内容。</font></font></li>
+<li><a href="https://github.com/stylecow/stylecow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stylecow</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 解析、操作和转换现代 CSS，使其与所有浏览器兼容。</font><font style="vertical-align: inherit;">可通过插件进行扩展。</font></font></li>
+<li><a href="https://github.com/nodeca/js-yaml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">js-yaml</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 非常快的 YAML 解析器。</font></font></li>
+<li><a href="https://github.com/Leonidas-from-XIV/node-xml2js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xml2js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - XML 到 JavaScript 对象转换器。</font></font></li>
+<li><a href="https://github.com/zaach/jison"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jison</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 友好的 JavaScript 解析器生成器。</font><font style="vertical-align: inherit;">它与 Bison、Yacc 及其家族共享基因。</font></font></li>
+<li><a href="https://github.com/ruimarinho/google-libphonenumber"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">google-libphonenumber</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 解析、格式化、存储和验证电话号码。</font></font></li>
+<li><a href="https://github.com/TooTallNate/ref"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ref</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 读/写缓冲区中的结构化二进制数据。</font></font></li>
+<li><a href="https://github.com/dtjohnson/xlsx-populate"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xlsx-populate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 读/写 Excel XLSX.</font></font></li>
+<li><a href="https://github.com/Chevrotain/chevrotain"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chevrotain</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 非常快速且功能丰富的 JavaScript 解析器构建工具包。</font></font></li>
+<li><a href="https://github.com/NaturalIntelligence/fast-xml-parser"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fast-xml-parser</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 验证和解析 XML。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-humanize" class="anchor" aria-hidden="true" tabindex="-1" href="#humanize"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人性化</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/pretty-bytes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pretty-bytes</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将字节转换为人类可读的字符串：</font></font><code>1337</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">→ </font></font><code>1.34 kB</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/sindresorhus/pretty-ms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pretty-ms</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将毫秒转换为人类可读的字符串：</font></font><code>1337000000</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">→ </font></font><code>15d 11h 23m 20s</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/vercel/ms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ms</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 微小的毫秒转换实用程序。</font></font></li>
+<li><a href="https://github.com/AriaMinaei/pretty-error"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pretty-Error</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 错误较少混乱。</font></font></li>
+<li><a href="https://github.com/Tjatse/node-readability"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">read-art</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从任何页面提取可读内容。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-compression" class="anchor" aria-hidden="true" tabindex="-1" href="#compression"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">压缩</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/thejoshwolfe/yazl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">yazl</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 邮政编码。</font></font></li>
+<li><a href="https://github.com/thejoshwolfe/yauzl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">yauzl</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 解压。</font></font></li>
+<li><a href="https://github.com/archiverjs/node-archiver"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archiver</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于生成存档的流接口，支持 ZIP 和 TAR。</font></font></li>
+<li><a href="https://github.com/nodeca/pako"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pako</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯 js 的高速 zlib 端口（deflate、inflate、gzip）。</font></font></li>
+<li><a href="https://github.com/mafintosh/tar-stream"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tar-stream</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 流式 tar 解析器和生成器。</font><font style="vertical-align: inherit;">另请参阅</font></font><a href="https://github.com/mafintosh/tar-fs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tar-fs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-network" class="anchor" aria-hidden="true" tabindex="-1" href="#network"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/get-port"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">get-port</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取可用端口。</font></font></li>
+<li><a href="https://github.com/sindresorhus/ipify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ipify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取您的公共 IP 地址。</font></font></li>
+<li><a href="https://github.com/bevry/getmac"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">getmac</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取计算机 MAC 地址。</font></font></li>
+<li><a href="https://github.com/infusion/node-dhcp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DHCP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - DHCP 客户端和服务器。</font></font></li>
+<li><a href="https://github.com/roccomuso/netcat"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">netcat</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯 JS 中的 Netcat 端口.</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-database" class="anchor" aria-hidden="true" tabindex="-1" href="#database"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">司机
+</font></font><ul dir="auto">
+<li><a href="https://github.com/brianc/node-postgres"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PostgreSQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PostgreSQL 客户端。</font><font style="vertical-align: inherit;">纯 JavaScript 和本机 libpq 绑定。</font></font></li>
+<li><a href="https://github.com/luin/ioredis"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Redis</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Redis 客户端。</font></font></li>
+<li><a href="https://github.com/Level/levelup"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LevelUP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - LevelDB。</font></font></li>
+<li><a href="https://github.com/mysqljs/mysql"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MySQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - MySQL 客户端。</font></font></li>
+<li><a href="https://github.com/apache/couchdb-nano"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">couchdb-nano</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -CouchDB 客户端。</font></font></li>
+<li><a href="https://github.com/aerospike/aerospike-client-nodejs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aerospike</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Aerospike 客户端。</font></font></li>
+<li><a href="https://github.com/couchbase/couchnode"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Couchbase</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Couchbase 客户端。</font></font></li>
+<li><a href="https://github.com/mongodb/node-mongodb-native"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MongoDB</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - MongoDB 驱动程序。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ODM/ORM
+</font></font><ul dir="auto">
+<li><a href="https://github.com/sequelize/sequelize"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sequelize</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 多方言 ORM。</font><font style="vertical-align: inherit;">支持 PostgreSQL、SQLite、MySQL 等。</font></font></li>
+<li><a href="https://github.com/bookshelf/bookshelf"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bookshelf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 采用 Backbone.js 风格的 PostgreSQL、MySQL 和 SQLite3 的 ORM.</font></font></li>
+<li><a href="https://github.com/Automattic/mongoose"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mongoose</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 优雅的 MongoDB 对象建模。</font></font></li>
+<li><a href="https://github.com/balderdashy/waterline"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Waterline</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一种与数据存储无关的工具，可极大地简化与一个或多个数据库的交互。</font></font></li>
+<li><a href="https://github.com/PhilWaldmann/openrecord"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenRecord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 PostgreSQL、MySQL、SQLite3 和 RESTful 数据存储的 ORM。</font><font style="vertical-align: inherit;">与 ActiveRecord 类似。</font></font></li>
+<li><a href="https://github.com/vitaly-t/pg-promise"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pg-promise</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 Promise 的原生 SQL 的 PostgreSQL 框架。</font></font></li>
+<li><a href="https://github.com/gajus/slonik"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">slonik</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有严格类型、详细日志记录和断言的 PostgreSQL 客户端。</font></font></li>
+<li><a href="https://github.com/Vincit/objection.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Objection.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 SQL 查询生成器 Knex 构建的轻量级 ORM。</font></font></li>
+<li><a href="https://github.com/typeorm/typeorm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TypeORM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 PostgreSQL、MariaDB、MySQL、SQLite 等的 ORM。</font></font></li>
+<li><a href="https://github.com/mikro-orm/mikro-orm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MikroORM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于数据映射器、工作单元和身份映射模式的 TypeScript ORM。</font><font style="vertical-align: inherit;">支持 MongoDB、PostgreSQL、MySQL 和 SQLite。</font></font></li>
+<li><a href="https://github.com/prisma/prisma"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prisma</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 现代数据库访问（ORM 替代方案）。</font><font style="vertical-align: inherit;">TypeScript 中自动生成且类型安全的查询生成器。</font><font style="vertical-align: inherit;">支持 PostgreSQL、MySQL 和 SQLite。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查询生成器
+</font></font><ul dir="auto">
+<li><a href="https://github.com/knex/knex"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Knex</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 PostgreSQL、MySQL 和 SQLite3 的查询构建器，设计灵活、可移植且使用起来有趣。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他
+</font></font><ul dir="auto">
+<li><a href="https://github.com/louischatriot/nedb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NeDB</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用 Ja&ZeroWidthSpace;&ZeroWidthSpace;vaScript 编写的嵌入式持久数据库。</font></font></li>
+<li><a href="https://github.com/typicode/lowdb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lowdb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 Lodash 提供支持的小型 JavaScript 数据库。</font></font></li>
+<li><a href="https://github.com/jaredwray/keyv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keyv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单的键值存储，支持多个后端。</font></font></li>
+<li><a href="https://github.com/tommybananas/finale"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Finale</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 Sequelize 模型的 RESTful 端点生成器。</font></font></li>
+<li><a href="https://github.com/mlaanderson/database-js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">database-js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有类似 JDBC 连接的多个数据库的包装器。</font></font></li>
+<li><a href="https://github.com/pkosiec/mongo-seeding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mongo Seeding</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 JavaScript 和 JSON 文件填充 MongoDB 数据库。</font></font></li>
+<li><a href="https://github.com/ForbesLindesay/atdatabases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@databases</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用普通 SQL 查询 PostgreSQL、MySQL 和 SQLite3，而不存在 SQL 注入的风险。</font></font></li>
+<li><a href="https://github.com/oguimbal/pg-mem"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pg-mem</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于测试的内存 PostgreSQL 实例。</font></font></li>
+</ul>
+</li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-testing" class="anchor" aria-hidden="true" tabindex="-1" href="#testing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/avajs/ava"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AVA</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 未来派测试运行程序。</font></font></li>
+<li><a href="https://github.com/mochajs/mocha"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mocha</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 功能丰富的测试框架，使异步测试变得简单有趣。</font></font></li>
+<li><a href="https://github.com/istanbuljs/nyc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nyc</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 istanbul 上构建的代码覆盖工具，可与子流程一起使用。</font></font></li>
+<li><a href="https://github.com/tapjs/node-tap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tap</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - TAP 测试框架。</font></font></li>
+<li><a href="https://github.com/substack/tape"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">胶带</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- TAP 生产测试工具。</font></font></li>
+<li><a href="https://github.com/power-assert-js/power-assert"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">power-assert</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过标准断言接口提供描述性断言消息。</font></font></li>
+<li><a href="https://github.com/mantoni/mochify.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mochify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 Browserify、Mocha、PhantomJS 和 WebDriver 进行 TDD。</font></font></li>
+<li><a href="https://github.com/vadimdemedes/trevor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">trevor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 针对多个版本的 Node.js 运行测试，无需手动切换版本或推送到 Travis CI.</font></font></li>
+<li><a href="https://github.com/alexfernandez/loadtest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">loadtest</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用自动化 API 为您的 Web 应用程序运行负载测试。</font></font></li>
+<li><a href="https://github.com/sinonjs/sinon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sinon.JS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 测试间谍、存根和模拟。</font></font></li>
+<li><a href="https://github.com/nodeca/navit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">navit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PhantomJS / SlimerJS 包装器，用于简化浏览器测试脚本。</font></font></li>
+<li><a href="https://github.com/nock/nock"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nock</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - HTTP 模拟和期望。</font></font></li>
+<li><a href="https://github.com/theintern/intern"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实习生</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 代码测试堆栈。</font></font></li>
+<li><a href="https://github.com/h2non/toxy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">toxy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可破解的 HTTP 代理，用于模拟故障场景和网络条件。</font></font></li>
+<li><a href="https://github.com/sindresorhus/hook-std"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hook-std</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 挂钩并修改 stdout/stderr。</font></font></li>
+<li><a href="https://github.com/egoist/testen"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">testen</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 NVM 在本地运行多个版本的 Node.js 测试。</font></font></li>
+<li><a href="https://github.com/nightwatchjs/nightwatch"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nightwatch</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Selenium WebDriver 的自动化 UI 测试框架。</font></font></li>
+<li><a href="https://github.com/webdriverio/webdriverio"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebdriverIO</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 WebDriver 协议的自动化测试。</font></font></li>
+<li><a href="https://github.com/facebook/jest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jest</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 无痛 JavaScript 测试。</font></font></li>
+<li><a href="https://github.com/DevExpress/testcafe"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TestCafe</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 自动化浏览器测试。</font></font></li>
+<li><a href="https://github.com/bleenco/abstruse"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">abstruse</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 持续集成服务器。</font></font></li>
+<li><a href="https://github.com/codeceptjs/CodeceptJS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CodeceptJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 端到端测试。</font></font></li>
+<li><a href="https://github.com/puppeteer/puppeteer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puppeteer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 无头铬。</font></font></li>
+<li><a href="https://github.com/microsoft/playwright"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Playwright</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用单个 API 的 Headless Chromium、WebKit 和 Firefox。</font></font></li>
+<li><a href="https://github.com/ehmicky/nve"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nve</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在本地多个版本的 Node.js 上运行任何命令。</font></font></li>
+<li><a href="https://github.com/dequelabs/axe-core"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">axe-core</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于自动化 Web UI 测试的辅助功能引擎。</font></font></li>
+<li><a href="https://github.com/testcontainers/testcontainers-node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">testcontainers-node</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 提供通用数据库、Selenium Web 浏览器或任何其他可以在 Docker 容器中运行的东西的轻量级一次性实例。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-security" class="anchor" aria-hidden="true" tabindex="-1" href="#security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/simonepri/upash"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">upash</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 所有密码哈希算法的统一 API。</font></font></li>
+<li><a href="https://github.com/cossacklabs/themis"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">themis</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 多语言框架，使典型的加密方案易于使用：静态数据、经过身份验证的数据交换、传输保护、身份验证等。</font></font></li>
+<li><a href="https://github.com/apps/guardrails"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GuardRails</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在拉取请求中提供安全反馈的 GitHub 应用程序。</font></font></li>
+<li><a href="https://github.com/animir/node-rate-limiter-flexible"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rate-limiter-flexible</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 暴力破解和 DDoS 攻击防护。</font></font></li>
+<li><a href="https://github.com/sindresorhus/crypto-hash"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">crypto-hash</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 异步非阻塞哈希。</font></font></li>
+<li><a href="https://github.com/davesag/jose-simple"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jose-simple</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 JOSE（JSON 对象签名和加密）标准加密和解密数据。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-benchmarking" class="anchor" aria-hidden="true" tabindex="-1" href="#benchmarking"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标杆管理</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/bestiejs/benchmark.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Benchmark.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 支持高分辨率计时器并返回具有统计意义的结果的基准测试库。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-minifiers" class="anchor" aria-hidden="true" tabindex="-1" href="#minifiers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">缩小器</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/babel/minify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">babel-minify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Babel 工具链的 ES2015+ 感知压缩器。</font></font></li>
+<li><a href="https://github.com/mishoo/UglifyJS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UglifyJS2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 压缩器。</font></font></li>
+<li><a href="https://github.com/clean-css/clean-css"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">clean-css</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CSS 缩小器。</font></font></li>
+<li><a href="https://github.com/Swaagie/minimize"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最小化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- HTML 缩小器。</font></font></li>
+<li><a href="https://github.com/imagemin/imagemin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">imagemin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 图像缩小器。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-authentication" class="anchor" aria-hidden="true" tabindex="-1" href="#authentication"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/jaredhanson/passport"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Passport</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单、不引人注目的身份验证。</font></font></li>
+<li><a href="https://github.com/simov/grant"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grant</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Express、Koa、Hapi、Fastify、AWS Lambda、Azure、Google Cloud、Vercel 等的 OAuth 提供商。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-authorization" class="anchor" aria-hidden="true" tabindex="-1" href="#authorization"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">授权</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/stalniy/casl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CASL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - UI 和 API 的同构授权。</font></font></li>
+<li><a href="https://github.com/casbin/node-casbin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-casbin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 支持 ACL、RBAC 和 ABAC 等访问控制模型的授权库。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-email" class="anchor" aria-hidden="true" tabindex="-1" href="#email"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/nodemailer/nodemailer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nodemailer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 处理电子邮件的最快方式。</font></font></li>
+<li><a href="https://github.com/eleith/emailjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">emailjs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将带有附件的文本/HTML 电子邮件发送到任何 SMTP 服务器。</font></font></li>
+<li><a href="https://github.com/forwardemail/email-templates"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">email-templates</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 创建、预览和发送自定义电子邮件模板。</font></font></li>
+<li><a href="https://github.com/mjmlio/mjml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MJML</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 旨在减少创建响应式电子邮件的痛苦的标记语言。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-job-queues" class="anchor" aria-hidden="true" tabindex="-1" href="#job-queues"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作业队列</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/OptimalBits/bull"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bull</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 持久作业和消息队列。</font></font></li>
+<li><a href="https://github.com/agenda/agenda"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">议程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- MongoDB 支持的作业调度。</font></font></li>
+<li><a href="https://github.com/nodeca/idoit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">idoit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Redis 支持的作业队列引擎，具有高级作业控制。</font></font></li>
+<li><a href="https://github.com/actionhero/node-resque"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-resque</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Redis 支持的作业队列。</font></font></li>
+<li><a href="https://github.com/smrchy/rsmq"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rsmq</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Redis 支持的消息队列。</font></font></li>
+<li><a href="https://github.com/bee-queue/bee-queue"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bee-queue</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 Redis 支持的高性能作业队列。</font></font></li>
+<li><a href="https://github.com/weyoss/redis-smq"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RedisSMQ</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有实时监控功能的简单高性能Redis消息队列。</font></font></li>
+<li><a href="https://github.com/bbc/sqs-consumer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sqs-consumer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 构建基于 Amazon Simple Queue Service (SQS) 的应用程序，无需样板。</font></font></li>
+<li><a href="https://github.com/diamondio/better-queue"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">better-queue</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 当您无法使用 Redis 时，简单高效的作业队列。</font></font></li>
+<li><a href="https://github.com/taskforcesh/bullmq"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bullmq</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 持久作业和消息队列。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-nodejs-management" class="anchor" aria-hidden="true" tabindex="-1" href="#nodejs-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 管理</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/tj/n"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">n</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 版本管理。</font></font></li>
+<li><a href="https://github.com/isaacs/nave"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nave</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 的虚拟环境。</font></font></li>
+<li><a href="https://github.com/ekalinin/nodeenv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nodeenv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 与 Python 的 virtualenv 兼容的 Node.js 虚拟环境。</font></font></li>
+<li><a href="https://github.com/coreybutler/nvm-windows"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nvm for Windows</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Windows 的版本管理。</font></font></li>
+<li><a href="https://github.com/nodenv/nodenv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nodenv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 类似于 Ruby 的 rbenv 的版本管理器。</font><font style="vertical-align: inherit;">支持自动版本切换。</font></font></li>
+<li><a href="https://github.com/Schniz/fnm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fnm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用 Rust 构建的跨平台 Node.js 版本管理器。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-cross-platform-integration" class="anchor" aria-hidden="true" tabindex="-1" href="#cross-platform-integration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨平台集成</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/napi-rs/napi-rs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">napi-rs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过 Node-API 在 Rust 中构建编译的 Node.js 插件的框架。</font></font></li>
+<li><a href="https://github.com/neon-bindings/neon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于编写安全快速的本机 Node.js 模块的 Rust 绑定。</font></font></li>
+<li><a href="https://github.com/tjanczuk/edge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Edge.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 Windows、macOS 和 Linux 上的同一进程中运行 .NET 和 Node.js 代码。</font></font></li>
+<li><a href="https://github.com/Elringus/DotNetJS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DotNetJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用此 .NET 互操作层在 Node.js 中使用 .NET 库。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-natural-language-processing" class="anchor" aria-hidden="true" tabindex="-1" href="#natural-language-processing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/retextjs/retext"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">retext</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可扩展的自然语言系统。</font></font></li>
+<li><a href="https://github.com/wooorm/franc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">franc</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检测文本的语言。</font></font></li>
+<li><a href="https://github.com/sindresorhus/leven"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">leven</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 Levenshtein 距离算法测量两个字符串之间的差异。</font></font></li>
+<li><a href="https://github.com/NaturalNode/natural"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 自然语言设施。</font></font></li>
+<li><a href="https://github.com/axa-group/nlp.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nlp.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 构建机器人，具有实体提取、情感分析、自动语言识别等功能。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-process-management" class="anchor" aria-hidden="true" tabindex="-1" href="#process-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流程管理</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/Unitech/pm2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PM2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 高级流程管理器。</font></font></li>
+<li><a href="https://github.com/remy/nodemon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nodemon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 监视应用程序中的更改并自动重新启动服务器。</font></font></li>
+<li><a href="https://github.com/coreybutler/node-mac"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-mac</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 作为本机 Mac 守护进程运行脚本并登录到控制台应用程序。</font></font></li>
+<li><a href="https://github.com/coreybutler/node-linux"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-linux</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 作为本机系统服务运行脚本并记录到系统日志。</font></font></li>
+<li><a href="https://github.com/coreybutler/node-windows"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-windows</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 作为本机 Windows 服务运行脚本并记录到事件查看器。</font></font></li>
+<li><a href="https://github.com/petruisfan/node-supervisor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Supervisor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 当脚本崩溃时重新启动脚本或在</font></font><code>*.js</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件更改时重新启动。</font></font></li>
+<li><a href="https://github.com/phusion/passenger"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phusion Passenger</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 直接集成到 Nginx 的友好流程管理器。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-automation" class="anchor" aria-hidden="true" tabindex="-1" href="#automation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/octalmage/robotjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">robotsjs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 桌面自动化：控制鼠标、键盘并阅读屏幕。</font></font></li>
+<li><a href="https://github.com/nut-tree/nut.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nut.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨平台本机 GUI 自动化/测试框架，具有与 Jest 集成的图像匹配功能。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-ast" class="anchor" aria-hidden="true" tabindex="-1" href="#ast"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谷草转氨酶</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/acornjs/acorn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acorn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 小型、快速的 JavaScript 解析器。</font></font></li>
+<li><a href="https://github.com/babel/babel/tree/master/packages/babel-parser"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">babel-parser</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Babel 中使用的 JavaScript 解析器。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-static-site-generators" class="anchor" aria-hidden="true" tabindex="-1" href="#static-site-generators"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">静态站点生成器</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/docpad/docpad"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DocPad</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有动态功能和庞大插件生态系统的静态站点生成器。</font></font></li>
+<li><a href="https://github.com/docsifyjs/docsify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docsify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Markdown 文档站点生成器，没有静态构建的 HTML 文件。</font></font></li>
+<li><a href="https://github.com/brandonweiss/charge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Charge</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 JSX 和 MDX 的固执的零配置静态站点生成器。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-content-management-systems" class="anchor" aria-hidden="true" tabindex="-1" href="#content-management-systems"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容管理系统</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/keystonejs/keystone"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KeystoneJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Express 和 MongoDB 构建的 CMS 和 Web 应用程序平台。</font></font></li>
+<li><a href="https://github.com/apostrophecms/apostrophe"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ApostropeCMS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 内容管理系统，重点是基于 Express 和 MongoDB 构建的直观前端内容编辑和管理。</font></font></li>
+<li><a href="https://github.com/strapi/strapi"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strapi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 内容管理框架（headless-CMS），用于构建强大的 API。</font></font></li>
+<li><a href="https://github.com/FactorJS/factor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Factor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Vue.js 仪表板框架和无头 CMS。</font></font></li>
+<li><a href="https://github.com/SoftwareBrothers/adminjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AdminBro</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 自动生成的管理面板，为您的所有资源提供 CRUD。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-forum" class="anchor" aria-hidden="true" tabindex="-1" href="#forum"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/NodeBB/NodeBB"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nodeBB</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 现代网络的论坛平台。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-blogging" class="anchor" aria-hidden="true" tabindex="-1" href="#blogging"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">写博客</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/TryGhost/Ghost"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ghost</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单、强大的发布平台。</font></font></li>
+<li><a href="https://github.com/hexojs/hexo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hexo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速、简单且功能强大的博客框架。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-weird" class="anchor" aria-hidden="true" tabindex="-1" href="#weird"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">诡异的</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/cows"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">奶牛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- ASCII 奶牛。</font></font></li>
+<li><a href="https://github.com/sindresorhus/superb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一流</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 变得一流，就像词语一样。</font></font></li>
+<li><a href="https://github.com/sindresorhus/cat-names"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">猫名</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 获取流行的猫名。</font></font></li>
+<li><a href="https://github.com/sindresorhus/dog-names"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">狗名</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 获取流行的狗名。</font></font></li>
+<li><a href="https://github.com/sindresorhus/superheroes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超级英雄</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 获取超级英雄的名字。</font></font></li>
+<li><a href="https://github.com/sindresorhus/supervillains"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">supervillains</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取超级恶棍的名字。</font></font></li>
+<li><a href="https://github.com/maxogden/cool-ascii-faces"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cool-ascii-faces</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取一些很酷的 ascii 面孔。</font></font></li>
+<li><a href="https://github.com/melaniecebula/cat-ascii-faces"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">猫-ascii-面孔</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- </font></font><code>₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></li>
+<li><a href="https://github.com/SkyHacks/nerds"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">书呆子</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 从哈利波特、星球大战和神奇宝贝等书呆子主题中获取数据。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-serialization" class="anchor" aria-hidden="true" tabindex="-1" href="#serialization"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">序列化</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/kesla/node-snappy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">snappy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Google Snappy 压缩库的本机绑定.</font></font></li>
+<li><a href="https://github.com/protobufjs/protobuf.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">protobuf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 协议缓冲区的实现。</font></font></li>
+<li><a href="https://github.com/compactr/compactr.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compactr</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Compactr 协议的实现。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-miscellaneous" class="anchor" aria-hidden="true" tabindex="-1" href="#miscellaneous"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种各样的</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/execa"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执行卡</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-更好</font></font><code>child_process</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/cheeriojs/cheerio"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cheerio</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 专为服务器设计的核心 jQuery 的快速、灵活且精益的实现。</font></font></li>
+<li><a href="https://github.com/sindresorhus/open"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">open</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 打开网站、文件、可执行文件等内容。</font></font></li>
+<li><a href="https://github.com/sindresorhus/hasha"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hasha</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 哈希变得简单。</font><font style="vertical-align: inherit;">获取缓冲区/字符串/流/文件的哈希值。</font></font></li>
+<li><a href="https://github.com/sindresorhus/dot-prop"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dot-prop</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用点路径从嵌套对象获取属性。</font></font></li>
+<li><a href="https://github.com/sindresorhus/onetime"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">onetime</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 只运行一个函数一次。</font></font></li>
+<li><a href="https://github.com/sindresorhus/mem"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mem</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 记忆函数 - 一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续函数调用。</font></font></li>
+<li><a href="https://github.com/sindresorhus/strip-bom"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">strip-bom</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从字符串/缓冲区/流中剥离 UTF-8 字节顺序标记 (BOM)。</font></font></li>
+<li><a href="https://github.com/sindresorhus/os-locale"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">os-locale</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 获取系统区域设置。</font></font></li>
+<li><a href="https://github.com/mscdex/ssh2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ssh2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - SSH2 客户端和服务器模块。</font></font></li>
+<li><a href="https://github.com/markelog/adit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">adit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - SSH 隧道变得简单。</font></font></li>
+<li><a href="https://github.com/sindresorhus/file-type"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">file-type</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 检测缓冲区的文件类型。</font></font></li>
+<li><a href="https://github.com/SGrondin/bottleneck"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">瓶颈</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 速率限制器，使节流变得容易。</font></font></li>
+<li><a href="https://github.com/audreyt/node-webworker-threads"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">webworker-threads</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用本机线程的轻量级 Web Worker API 实现。</font></font></li>
+<li><a href="https://github.com/sindresorhus/clipboardy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Clipboardy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 访问系统剪贴板（复制/粘贴）。</font></font></li>
+<li><a href="https://github.com/mapbox/node-pre-gyp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-pre-gyp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可以轻松地从二进制文件发布和安装 Node.js C++ 插件。</font></font></li>
+<li><a href="https://github.com/peterbraden/node-opencv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">opencv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - OpenCV 的绑定。</font><font style="vertical-align: inherit;">事实上的计算机视觉库。</font></font></li>
+<li><a href="https://github.com/motdotla/dotenv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dotenv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从 .env 文件加载环境变量。</font></font></li>
+<li><a href="https://github.com/npm/node-semver"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">semver</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 语义版本解析器。</font></font></li>
+<li><a href="https://github.com/nodegit/nodegit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nodegit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 与 Git 的本机绑定。</font></font></li>
+<li><a href="https://github.com/pigulla/json-strictify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">json-strictify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 安全地将值序列化为 JSON，不会丢失数据或进入无限循环。</font></font></li>
+<li><a href="https://github.com/jsdom/jsdom"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jsdom</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - HTML 和 DOM 的 JavaScript 实现。</font></font></li>
+<li><a href="https://github.com/sindresorhus/is"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@sindresorhus/is</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 类型检查值。</font></font></li>
+<li><a href="https://github.com/simonepri/env-dot-prop"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">env-dot-prop</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用点路径获取、设置或删除 process.env 的嵌套属性。</font></font></li>
+<li><a href="https://github.com/gkozlenko/node-video-lib"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-video-lib</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 纯 JavaScript 库，用于处理 MP4 和 FLV 视频文件并为 HLS 流创建 MPEG-TS 块。</font></font></li>
+<li><a href="https://github.com/patrickjuchli/basic-ftp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">basic-ftp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - FTP/FTPS 客户端。</font></font></li>
+<li><a href="https://github.com/xxczaki/cashify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cashify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 货币转换。</font></font></li>
+<li><a href="https://github.com/Geode-solutions/genepi"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">genepi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 从 C++ 代码自动生成本机 Node.js 插件。</font></font></li>
+<li><a href="https://github.com/typicode/husky"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">husky</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 创建 Git 挂钩脚本。</font></font></li>
+<li><a href="https://github.com/ds300/patch-package"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">patch-package</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 制作并保留对 npm 依赖项的修复。</font></font></li>
+<li><a href="https://github.com/mifi/editly"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">editly</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 声明性视频编辑 API。</font></font></li>
+<li><a href="https://github.com/ehmicky/wild-wild-path"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">wild-wild-path</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 带有通配符和正则表达式的对象属性路径。</font></font></li>
+<li><a href="https://github.com/sindresorhus/uint8array-extras"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uint8array-extras</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于使用 Uint8Array 和 Buffer 的有用实用程序。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-package-manager" class="anchor" aria-hidden="true" tabindex="-1" href="#package-manager"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包管理器</font></font></h2>
+<ul dir="auto">
+<li><a href="https://docs.npmjs.com/about-npm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 默认的包管理器。</font></font></li>
+<li><a href="https://pnpm.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pnpm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 磁盘空间高效的包管理器。</font></font></li>
+<li><a href="https://yarnpkg.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纱线</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 替代包管理器。</font></font></li>
+<li><a href="https://bun.sh" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bun</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于 JavaScript 和 TypeScript 应用程序的多合一工具包。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-tutorials" class="anchor" aria-hidden="true" tabindex="-1" href="#tutorials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/goldbergyoni/nodebestpractices"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 最佳实践</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Node.js 最佳实践排名靠前的内容的总结和管理，提供多种语言版本。</font></font></li>
+<li><a href="https://github.com/nodeschool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nodeschool</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过互动课程学习 Node.js。</font></font></li>
+<li><a href="https://github.com/maxogden/art-of-node/#the-art-of-node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node 的艺术</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Node.js 简介。</font></font></li>
+<li><a href="https://github.com/mattdesl/module-best-practices"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">module-best-practices</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 编写新 npm 模块时的一些良好实践。</font></font></li>
+<li><a href="https://github.com/FredKSchott/the-node-way"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node Way</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和实际上易于阅读的代码。</font></font></li>
+<li><a href="https://github.com/azat-co/you-dont-know-node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你不知道 Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 核心功能和异步 JavaScript 简介。</font></font></li>
+<li><a href="https://github.com/ehmicky/cross-platform-node-guide"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可移植 Node.js 指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 有关如何编写可移植/跨平台 Node.js 代码的实用指南。</font></font></li>
+<li><a href="https://frameworkless.js.org/course" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建一个没有框架的真实 Web 应用程序</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-discovery" class="anchor" aria-hidden="true" tabindex="-1" href="#discovery"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发现</font></font></h3>
+<ul dir="auto">
+<li><a href="https://npms.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npms - 出色的包搜索，使用</font></font></a><font style="vertical-align: inherit;"></font><a href="https://npms.io/about" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大量指标</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对包质量进行深入分析</font><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://npmaddict.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm 上瘾者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 每天注入 npm 包。</font></font></li>
+<li><a href="https://npmcompare.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npmcompare.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 比较和发现 npm 包。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-articles" class="anchor" aria-hidden="true" tabindex="-1" href="#articles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文章</font></font></h3>
+<ul dir="auto">
+<li><a href="https://sematext.com/blog/node-js-error-handling/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 中的错误处理</font></font></a></li>
+<li><a href="https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10 个步骤自学 Node.js</font></font></a></li>
+<li><a href="https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">掌握 Node.js 中的文件系统</font></font></a></li>
+<li><a href="https://nodesource.com/blog/semver-a-primer/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Semver：入门</font></font></a></li>
+<li><a href="https://nodesource.com/blog/semver-tilde-and-caret/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Semver：波形符和插入符</font></font></a></li>
+<li><a href="https://nodesource.com/blog/why-asynchronous/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么异步？</font></font></a></li>
+<li><a href="https://nodesource.com/blog/understanding-the-nodejs-event-loop/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解 Node.js 事件循环</font></font></a></li>
+<li><a href="https://nodesource.com/blog/understanding-object-streams/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解对象流</font></font></a></li>
+<li><a href="https://snipcart.com/blog/graphql-nodejs-express-tutorial" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用Express快速构建GraphQL服务器</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-newsletters" class="anchor" aria-hidden="true" tabindex="-1" href="#newsletters"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时事通讯</font></font></h3>
+<ul dir="auto">
+<li><a href="https://nodeweekly.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node Weekly</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 新闻和文章的每周电子邮件摘要。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-videos" class="anchor" aria-hidden="true" tabindex="-1" href="#videos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></h3>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=jo_B4LTHi3I" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ryan Dahl 介绍 Node.js</font></font></a></li>
+<li><a href="https://learn.bevry.me/hands-on-with-node.js/preface" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亲身体验 Node.js</font></font></a></li>
+<li><a href="https://v8.dev/blog/trash-talk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">V8 Garbage Collector</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 关于 V8 垃圾收集器的垃圾谈论。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=M3BM9TB-8yA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ryan Dahl 的《关于 Node.js 我后悔的 10 件事》</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 的创建者关于其一些局限性的富有洞察力的演讲。</font></font></li>
+<li><a href="https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mastering REST APIs in Node.js: Zero-To-Hero</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 有关如何使用 Node.js 制作 REST API 的视频课程。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=_1xa8Bsho6A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Make a vanilla Node.js REST API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 不使用 Express 等框架构建 REST API。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=FrufJFBSoQY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Google I/O 2009 - V8：高性能 JavaScript 引擎</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- V8 架构的基础知识及其如何优化 JavaScript 执行。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=UJPdhx5zTaw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Google I/O 2012 - Breaking the JavaScript Speed Limit with V8</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - V8 如何优化 JavaScript 执行。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=VhpdsjBUS3g" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Google I/O 2013 - Accelerated Oz with V8: Follow the Yellow Brick Road to JavaScript Performance</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 如何利用 V8 知识检测应用程序瓶颈并优化性能。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=OCjvhCFFPTw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 内部架构 | </font><font style="vertical-align: inherit;">Ignition、Turbofan、Libuv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 内部工作原理，重点关注 V8 和 libuv。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=_c51fcXRLGw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">libuv 简介：什么是 Unicorn Velociraptor？</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><code>libuv</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">架构、线程池和事件循环及其源代码。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=kCJ3PFU8Ke8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">libuv 跨平台异步 I/O</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -</font></font><code>libuv</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">详细架构，例如实际使用线程的位置。</font></font></li>
+<li><a href="https://www.youtube.com/watch?v=oPo4EQmkjvY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">You Don't Know Node - ForwardJS 旧金山</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过有关 V8、libuv、事件循环、模块、流和集群的测验解释 Node.js 内部结构。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-books" class="anchor" aria-hidden="true" tabindex="-1" href="#books"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图书</font></font></h3>
+<ul dir="auto">
+<li><a href="https://www.manning.com/books/node-js-in-action-second-edition" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 的实际应用</font></font></a></li>
+<li><a href="https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 实践</font></font></a></li>
+<li><a href="https://visionmedia.github.io/masteringnode/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">掌握节点</font></font></a></li>
+<li><a href="https://pragprog.com/book/jwnode2/node-js-8-the-right-way/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 8 的正确方式</font></font></a></li>
+<li><a href="https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">专业 Node.js：构建基于 JavaScript 的可扩展软件</font></font></a></li>
+<li><a href="https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保护您的 Node.js Web 应用程序</font></font></a></li>
+<li><a href="https://www.manning.com/books/express-in-action" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表达在行动</font></font></a></li>
+<li><a href="https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实用现代 JavaScript</font></font></a></li>
+<li><a href="https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">掌握模块化 JavaScript</font></font></a></li>
+<li><a href="https://www.manning.com/books/get-programming-with-node-js" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Node.js 进行编程</font></font></a></li>
+<li><a href="https://www.amazon.com/dp/1838558756" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 食谱</font></font></a></li>
+<li><a href="https://www.nodejsdesignpatterns.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 设计模式</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-blogs" class="anchor" aria-hidden="true" tabindex="-1" href="#blogs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></h3>
+<ul dir="auto">
+<li><a href="https://nodejs.org/en/blog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 博客</font></font></a></li>
+<li><a href="https://webapplog.com/tag/node-js/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">webapplog.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 来自 Practical Node.js 和 Pro Express.js Azat Mardan 的作者关于 Node.js 和 JavaScript 的博客文章。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-courses" class="anchor" aria-hidden="true" tabindex="-1" href="#courses"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">培训班</font></font></h3>
+<ul dir="auto">
+<li><a href="https://learnnode.com/friend/AWESOME" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习使用 Node.js 构建应用程序和 API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Wes Bos 的视频课程。</font></font></li>
+<li><a href="https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Node.js 进行实时 Web</font></font></a></li>
+<li><a href="https://www.udemy.com/course/understand-nodejs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习并理解 Node.js</font></font></a></li>
+<li><a href="https://kinsta.com/academy/course/node-js-full-stack-developer/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js 全栈开发人员课程</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-cheatsheets" class="anchor" aria-hidden="true" tabindex="-1" href="#cheatsheets"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">备忘单</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/azat-co/cheatsheets/tree/master/express4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Express.js</font></font></a></li>
+<li><a href="https://github.com/stephenplusplus/stream-faqs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流常见问题解答</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 回答有关流的常见问题，涵盖分页、事件等。</font></font></li>
+<li><a href="https://github.com/jesusprubio/strong-node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strong Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js Web 服务源代码安全分析清单。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工具</font></font></h3>
+<ul dir="auto">
+<li><a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OctoLinker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Chrome 扩展，可链接 GitHub 上的 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项。</font></font></li>
+<li><a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm-hub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Chrome 扩展，用于在存储库自述文件的底部显示 npm 依赖项.</font></font></li>
+<li><a href="https://runkit.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RunKit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在任何网站上嵌入 Node.js 环境。</font></font></li>
+<li><a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">github-npm-stats</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Chrome 扩展，显示 GitHub 上的 npm 下载统计信息。</font></font></li>
+<li><a href="https://semver.npmjs.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm semver 计算器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 直观地探索 semver 范围匹配的软件包版本。</font></font></li>
+<li><a href="https://codesandbox.io/s/node-http-server-node" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CodeSandbox</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在线 IDE 和原型设计。</font></font></li>
+<li><a href="https://github.com/amplication/amplication"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">放大</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 自动生成功能齐全的应用程序。</font></font></li>
+<li><a href="https://runjs.app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RunJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 桌面 JavaScript 游乐场。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-community" class="anchor" aria-hidden="true" tabindex="-1" href="#community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></h3>
+<ul dir="auto">
+<li><a href="https://stackoverflow.com/questions/tagged/node.js" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">堆栈溢出</font></font></a></li>
+<li><a href="https://www.reddit.com/r/node" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">红迪网</font></font></a></li>
+<li><a href="https://twitter.com/nodejs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推特</font></font></a></li>
+<li><a href="https://hashnode.com/n/nodejs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">哈希节点</font></font></a></li>
+<li><a href="https://discord.com/invite/96WGtJt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-miscellaneous-1" class="anchor" aria-hidden="true" tabindex="-1" href="#miscellaneous-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种各样的</font></font></h3>
+<ul dir="auto">
+<li><a href="https://nodebots.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nodebots</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 JavaScript 驱动的机器人。</font></font></li>
+<li><a href="https://github.com/sindresorhus/node-module-boilerplate"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node-module-boilerplate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于启动创建节点模块的样板。</font></font></li>
+<li><a href="https://github.com/sheerun/modern-node"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modern-node</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于使用 Jest、Prettier、ESLint 和 Standard 创建节点模块的工具包。</font></font></li>
+<li><a href="https://github.com/sindresorhus/generator-nm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Generator-nm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 搭建一个节点模块。</font></font></li>
+<li><a href="https://github.com/Microsoft/nodejs-guidelines"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Microsoft Node.js 指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在 Microsoft 平台上使用 Node.js 的提示、技巧和资源。</font></font></li>
+<li><a href="https://github.com/sindresorhus/project-ideas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块请求和想法</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 请求您希望存在的 JavaScript 模块或获取模块的想法。</font></font></li>
+<li><a href="https://github.com/thlorenz/v8-perf"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">v8-perf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 与 V8 以及 Node.js 性能相关的注释和资源。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-related-lists" class="anchor" aria-hidden="true" tabindex="-1" href="#related-lists"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">相关列表</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/awesome-npm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome-npm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 npm 的资源和技巧。</font></font></li>
+<li><a href="https://github.com/bcoe/awesome-cross-platform-nodejs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome-cross-platform-nodejs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于编写和测试跨平台代码的资源。</font></font></li>
+</ul>
+</article></div>
